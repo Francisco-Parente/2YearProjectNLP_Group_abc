@@ -1,0 +1,1123 @@
+# newdoc id = batch-0000
+# sent_id = batch-0000-0001
+# text = Gumising ang bata.
+1	Gumising	O	-	-
+2	ang	O	-	-
+3	bata	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0002
+# text = Ginising ng ingay ang bata.
+1	Ginising	O	-	-
+2	ng	O	-	-
+3	ingay	O	-	-
+4	ang	O	-	-
+5	bata	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0000-0003
+# text = Sinulat ko ang liham.
+1	Sinulat	O	-	-
+2	ko	O	-	-
+3	ang	O	-	-
+4	liham	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0004
+# text = Sinulatan ko ang titser.
+1	Sinulatan	O	-	-
+2	ko	O	-	-
+3	ang	O	-	-
+4	titser	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0005
+# text = Dumarating na ang bus.
+1	Dumarating	O	-	-
+2	na	O	-	-
+3	ang	O	-	-
+4	bus	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0006
+# text = Artista ang babae.
+1	Artista	O	-	-
+2	ang	O	-	-
+3	babae	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0007
+# text = Maganda ang babae.
+1	Maganda	O	-	-
+2	ang	O	-	-
+3	babae	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0008
+# text = Yumaman ang babae.
+1	Yumaman	O	-	-
+2	ang	O	-	-
+3	babae	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0009
+# text = Artista ang yumaman.
+1	Artista	O	-	-
+2	ang	O	-	-
+3	yumaman	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0010
+# text = Artista ang nagluto ng pagkain.
+1	Artista	O	-	-
+2	ang	O	-	-
+3	nagluto	O	-	-
+4	ng	O	-	-
+5	pagkain	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0000-0011
+# text = Siya ang Amerikano.
+1	Siya	O	-	-
+2	ang	O	-	-
+3	Amerikano	B-PER	-	ljmiranda
+4	.	O	-	-
+
+# sent_id = batch-0000-0012
+# text = Iyan ang bahay.
+1	Iyan	O	-	-
+2	ang	O	-	-
+3	bahay	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0013
+# text = Si Juan ang bunso.
+1	Si	O	-	-
+2	Juan	B-PER	-	ljmiranda
+3	ang	O	-	-
+4	bunso	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0014
+# text = Isda ang bakalaw.
+1	Isda	O	-	-
+2	ang	O	-	-
+3	bakalaw	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0015
+# text = Isda ang pagkain niya.
+1	Isda	O	-	-
+2	ang	O	-	-
+3	pagkain	O	-	-
+4	niya	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0016
+# text = Isda ang paborito niya.
+1	Isda	O	-	-
+2	ang	O	-	-
+3	paborito	O	-	-
+4	niya	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0017
+# text = Bato ang bahay.
+1	Bato	O	-	-
+2	ang	O	-	-
+3	bahay	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0018
+# text = Bago ang bahay.
+1	Bago	O	-	-
+2	ang	O	-	-
+3	bahay	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0019
+# text = Bagong-bago ang bahay.
+1	Bagong	O	-	-
+2	-	O	-	-
+3	bago	O	-	-
+4	ang	O	-	-
+5	bahay	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0000-0020
+# text = Mabuti ang panahon.
+1	Mabuti	O	-	-
+2	ang	O	-	-
+3	panahon	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0021
+# text = Matamis ang kendi.
+1	Matamis	O	-	-
+2	ang	O	-	-
+3	kendi	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0022
+# text = Pagod ang bata.
+1	Pagod	O	-	-
+2	ang	O	-	-
+3	bata	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0000-0023
+# text = Nasa kusina ang mesa.
+1	Nasa	O	-	-
+2	kusina	O	-	-
+3	ang	O	-	-
+4	mesa	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0024
+# text = Para sa bata ang laruan.
+1	Para	O	-	-
+2	sa	O	-	-
+3	bata	O	-	-
+4	ang	O	-	-
+5	laruan	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0000-0025
+# text = Tungkol sa giyera ang kuwento.
+1	Tungkol	O	-	-
+2	sa	O	-	-
+3	giyera	O	-	-
+4	ang	O	-	-
+5	kuwento	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0000-0026
+# text = May gulayan ang babae.
+1	May	O	-	-
+2	gulayan	O	-	-
+3	ang	O	-	-
+4	babae	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0027
+# text = Kailangan ko ang kuwalta.
+1	Kailangan	O	-	-
+2	ko	O	-	-
+3	ang	O	-	-
+4	kuwalta	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0028
+# text = Sa istudyante ang libro.
+1	Sa	O	-	-
+2	istudyante	O	-	-
+3	ang	O	-	-
+4	libro	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0000-0029
+# text = Nagluto ng pagkain ang nanay.
+1	Nagluto	O	-	-
+2	ng	O	-	-
+3	pagkain	O	-	-
+4	ang	O	-	-
+5	nanay	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0000-0030
+# text = Nagluto na ng pagkain ang nanay.
+1	Nagluto	O	-	-
+2	na	O	-	-
+3	ng	O	-	-
+4	pagkain	O	-	-
+5	ang	O	-	-
+6	nanay	O	-	-
+7	.	O	-	-
+
+# newdoc id = batch-0001
+# sent_id = batch-0001-0001
+# text = Nagluto na ng pagkain ang nanay noong dumating ako.
+1	Nagluto	O	-	-
+2	na	O	-	-
+3	ng	O	-	-
+4	pagkain	O	-	-
+5	ang	O	-	-
+6	nanay	O	-	-
+7	noong	O	-	-
+8	dumating	O	-	-
+9	ako	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0001-0002
+# text = Nagluluto ng pagkain ang nanay araw-araw.
+1	Nagluluto	O	-	-
+2	ng	O	-	-
+3	pagkain	O	-	-
+4	ang	O	-	-
+5	nanay	O	-	-
+6	araw	O	-	-
+7	-	O	-	-
+8	araw	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0001-0003
+# text = Nagluluto na ng pagkain ang nanay.
+1	Nagluluto	O	-	-
+2	na	O	-	-
+3	ng	O	-	-
+4	pagkain	O	-	-
+5	ang	O	-	-
+6	nanay	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0001-0004
+# text = Nagluluto ng pagkain ang nanay noong dumating ako.
+1	Nagluluto	O	-	-
+2	ng	O	-	-
+3	pagkain	O	-	-
+4	ang	O	-	-
+5	nanay	O	-	-
+6	noong	O	-	-
+7	dumating	O	-	-
+8	ako	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0001-0005
+# text = Magluluto ng pagkain ang nanay bukas.
+1	Magluluto	O	-	-
+2	ng	O	-	-
+3	pagkain	O	-	-
+4	ang	O	-	-
+5	nanay	O	-	-
+6	bukas	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0001-0006
+# text = Hindi pa nagluluto ng pagkain ang nanay.
+1	Hindi	O	-	-
+2	pa	O	-	-
+3	nagluluto	O	-	-
+4	ng	O	-	-
+5	pagkain	O	-	-
+6	ang	O	-	-
+7	nanay	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0001-0007
+# text = Bumabasa ng diyaryo ang titser.
+1	Bumabasa	O	-	-
+2	ng	O	-	-
+3	diyaryo	O	-	-
+4	ang	O	-	-
+5	titser	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0008
+# text = Binabasa ng titser ang diyaryo.
+1	Binabasa	O	-	-
+2	ng	O	-	-
+3	titser	O	-	-
+4	ang	O	-	-
+5	diyaryo	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0009
+# text = Naghihilik ang lolo.
+1	Naghihilik	O	-	-
+2	ang	O	-	-
+3	lolo	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0010
+# text = Humihinga pa ang pasyente.
+1	Humihinga	O	-	-
+2	pa	O	-	-
+3	ang	O	-	-
+4	pasyente	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0001-0011
+# text = Nauuhaw ang sanggol.
+1	Nauuhaw	O	-	-
+2	ang	O	-	-
+3	sanggol	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0012
+# text = Tumatanda ang aso.
+1	Tumatanda	O	-	-
+2	ang	O	-	-
+3	aso	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0013
+# text = Ibinigay ng titser sa istudyante ang premyo.
+1	Ibinigay	O	-	-
+2	ng	O	-	-
+3	titser	O	-	-
+4	sa	O	-	-
+5	istudyante	O	-	-
+6	ang	O	-	-
+7	premyo	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0001-0014
+# text = Binigyan ng titser ng premyo ang istudyante.
+1	Binigyan	O	-	-
+2	ng	O	-	-
+3	titser	O	-	-
+4	ng	O	-	-
+5	premyo	O	-	-
+6	ang	O	-	-
+7	istudyante	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0001-0015
+# text = Binili ng mangingisda ang bangka.
+1	Binili	O	-	-
+2	ng	O	-	-
+3	mangingisda	O	-	-
+4	ang	O	-	-
+5	bangka	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0016
+# text = Sinalpok ng alon ang bangka.
+1	Sinalpok	O	-	-
+2	ng	O	-	-
+3	alon	O	-	-
+4	ang	O	-	-
+5	bangka	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0017
+# text = Bumili ng bangka ang mangingisda.
+1	Bumili	O	-	-
+2	ng	O	-	-
+3	bangka	O	-	-
+4	ang	O	-	-
+5	mangingisda	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0018
+# text = Sumalpok sa bangka ang alon.
+1	Sumalpok	O	-	-
+2	sa	O	-	-
+3	bangka	O	-	-
+4	ang	O	-	-
+5	alon	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0019
+# text = Binalikan niya ang Maynila.
+1	Binalikan	O	-	-
+2	niya	O	-	-
+3	ang	O	-	-
+4	Maynila	B-LOC	-	ljmiranda
+5	.	O	-	-
+
+# sent_id = batch-0001-0020
+# text = Tinakasan niya ang bilangguan.
+1	Tinakasan	O	-	-
+2	niya	O	-	-
+3	ang	O	-	-
+4	bilangguan	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0001-0021
+# text = Mansanas ito.
+1	Mansanas	O	-	-
+2	ito	O	-	-
+3	.	O	-	-
+
+# sent_id = batch-0001-0022
+# text = Biyudo ang maestro.
+1	Biyudo	O	-	-
+2	ang	O	-	-
+3	maestro	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0023
+# text = Biyuda ang maestra.
+1	Biyuda	O	-	-
+2	ang	O	-	-
+3	maestra	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0024
+# text = Komika si Linda.
+1	Komika	O	-	-
+2	si	O	-	-
+3	Linda	B-PER	-	ljmiranda
+4	.	O	-	-
+
+# sent_id = batch-0001-0025
+# text = Nakita kita.
+1	Nakita	O	-	-
+2	kita	O	-	-
+3	.	O	-	-
+
+# sent_id = batch-0001-0026
+# text = Kinain ang pagkain.
+1	Kinain	O	-	-
+2	ang	O	-	-
+3	pagkain	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0027
+# text = Mga guro sila.
+1	Mga	O	-	-
+2	guro	O	-	-
+3	sila	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0028
+# text = Malapit sa babae ang bata.
+1	Malapit	O	-	-
+2	sa	O	-	-
+3	babae	O	-	-
+4	ang	O	-	-
+5	bata	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0029
+# text = Malapit kay Maria si Juan.
+1	Malapit	O	-	-
+2	kay	O	-	-
+3	Maria	B-PER	-	ljmiranda
+4	si	O	-	-
+5	Juan	B-PER	-	ljmiranda
+6	.	O	-	-
+
+# sent_id = batch-0001-0030
+# text = Malapit sa Maynila ang Pasay City.
+1	Malapit	O	-	-
+2	sa	O	-	-
+3	Maynila	B-LOC	-	ljmiranda
+4	ang	O	-	-
+5	Pasay	B-LOC	-	ljmiranda
+6	City	I-LOC	-	ljmiranda
+7	.	O	-	-
+
+# newdoc id = batch-0002
+# sent_id = batch-0002-0001
+# text = Pinanood ko ang mga sumasayaw.
+1	Pinanood	O	-	-
+2	ko	O	-	-
+3	ang	O	-	-
+4	mga	O	-	-
+5	sumasayaw	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0002-0002
+# text = Sumasayaw ang mga tao.
+1	Sumasayaw	O	-	-
+2	ang	O	-	-
+3	mga	O	-	-
+4	tao	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0002-0003
+# text = Nagtatrabaho ang lalaki.
+1	Nagtatrabaho	O	-	-
+2	ang	O	-	-
+3	lalaki	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0002-0004
+# text = Lalaki ang nagtatrabaho.
+1	Lalaki	O	-	-
+2	ang	O	-	-
+3	nagtatrabaho	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0002-0005
+# text = Hindi ko siya nakita.
+1	Hindi	O	-	-
+2	ko	O	-	-
+3	siya	O	-	-
+4	nakita	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0002-0006
+# text = Hindi nakita ni Pedro si Juan.
+1	Hindi	O	-	-
+2	nakita	O	-	-
+3	ni	O	-	-
+4	Pedro	B-PER	-	ljmiranda
+5	si	O	-	-
+6	Juan	B-PER	-	ljmiranda
+7	.	O	-	-
+
+# sent_id = batch-0002-0007
+# text = Inahit ni John ang sarili niya.
+1	Inahit	O	-	-
+2	ni	O	-	-
+3	John	B-PER	-	ljmiranda
+4	ang	O	-	-
+5	sarili	O	-	-
+6	niya	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0002-0008
+# text = Inahit ni John mismo si Bill.
+1	Inahit	O	-	-
+2	ni	O	-	-
+3	John	B-PER	-	ljmiranda
+4	mismo	O	-	-
+5	si	O	-	-
+6	Bill	B-PER	-	ljmiranda
+7	.	O	-	-
+
+# sent_id = batch-0002-0009
+# text = Sino ang batang pumunta sa tindahan?
+1	Sino	O	-	-
+2	ang	O	-	-
+3	batang	O	-	-
+4	pumunta	O	-	-
+5	sa	O	-	-
+6	tindahan	O	-	-
+7	?	O	-	-
+
+# sent_id = batch-0002-0010
+# text = Umuulan ba?
+1	Umuulan	O	-	-
+2	ba	O	-	-
+3	?	O	-	-
+
+# sent_id = batch-0002-0011
+# text = Oo.
+1	Oo	O	-	-
+2	.	O	-	-
+
+# sent_id = batch-0002-0012
+# text = Hindi.
+1	Hindi	O	-	-
+2	.	O	-	-
+
+# sent_id = batch-0002-0013
+# text = Mayroon bang pagkain?
+1	Mayroon	O	-	-
+2	bang	O	-	-
+3	pagkain	O	-	-
+4	?	O	-	-
+
+# sent_id = batch-0002-0014
+# text = Mayroon.
+1	Mayroon	O	-	-
+2	.	O	-	-
+
+# sent_id = batch-0002-0015
+# text = Wala.
+1	Wala	O	-	-
+2	.	O	-	-
+
+# sent_id = batch-0002-0016
+# text = Umuulan, ano?
+1	Umuulan	O	-	-
+2	,	O	-	-
+3	ano	O	-	-
+4	?	O	-	-
+
+# sent_id = batch-0002-0017
+# text = Napakaano nila?
+1	Napakaano	O	-	-
+2	nila	O	-	-
+3	?	O	-	-
+
+# sent_id = batch-0002-0018
+# text = Napakataas nila.
+1	Napakataas	O	-	-
+2	nila	O	-	-
+3	.	O	-	-
+
+# sent_id = batch-0002-0019
+# text = Nagano ka?
+1	Nagano	O	-	-
+2	ka	O	-	-
+3	?	O	-	-
+
+# sent_id = batch-0002-0020
+# text = Nagsalita ka.
+1	Nagsalita	O	-	-
+2	ka	O	-	-
+3	.	O	-	-
+
+# sent_id = batch-0002-0021
+# text = Naano ka?
+1	Naano	O	-	-
+2	ka	O	-	-
+3	?	O	-	-
+
+# sent_id = batch-0002-0022
+# text = Natalisod ka.
+1	Natalisod	O	-	-
+2	ka	O	-	-
+3	.	O	-	-
+
+# sent_id = batch-0002-0023
+# text = Ipinansulat ni John ng liham kay Mary ang makinilya.
+1	Ipinansulat	O	-	-
+2	ni	O	-	-
+3	John	B-PER	-	ljmiranda
+4	ng	O	-	-
+5	liham	O	-	-
+6	kay	O	-	-
+7	Mary	B-PER	-	ljmiranda
+8	ang	O	-	-
+9	makinilya	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0002-0024
+# text = Nasaan ang mga pinggan?
+1	Nasaan	O	-	-
+2	ang	O	-	-
+3	mga	O	-	-
+4	pinggan	O	-	-
+5	?	O	-	-
+
+# sent_id = batch-0002-0025
+# text = Itinanong ko kung nasaan sila.
+1	Itinanong	O	-	-
+2	ko	O	-	-
+3	kung	O	-	-
+4	nasaan	O	-	-
+5	sila	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0002-0026
+# text = Darating daw si Pedro bukas.
+1	Darating	O	-	-
+2	daw	O	-	-
+3	si	O	-	-
+4	Pedro	B-PER	-	ljmiranda
+5	bukas	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0002-0027
+# text = Hindi daw darating si Pedro bukas.
+1	Hindi	O	-	-
+2	daw	O	-	-
+3	darating	O	-	-
+4	si	O	-	-
+5	Pedro	B-PER	-	ljmiranda
+6	bukas	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0002-0028
+# text = Bakit daw hindi darating si Pedro bukas?
+1	Bakit	O	-	-
+2	daw	O	-	-
+3	hindi	O	-	-
+4	darating	O	-	-
+5	si	O	-	-
+6	Pedro	B-PER	-	ljmiranda
+7	bukas	O	-	-
+8	?	O	-	-
+
+# sent_id = batch-0002-0029
+# text = Nagtatrabaho ka na ba daw roon?
+1	Nagtatrabaho	O	-	-
+2	ka	O	-	-
+3	na	O	-	-
+4	ba	O	-	-
+5	daw	O	-	-
+6	roon	O	-	-
+7	?	O	-	-
+
+# sent_id = batch-0002-0030
+# text = Nagtatrabaho ka na daw ba roon?
+1	Nagtatrabaho	O	-	-
+2	ka	O	-	-
+3	na	O	-	-
+4	daw	O	-	-
+5	ba	O	-	-
+6	roon	O	-	-
+7	?	O	-	-
+
+# newdoc id = batch-0003
+# sent_id = batch-0003-0001
+# text = Hindi pa man lamang tuloy siya nakakapagalmusal.
+1	Hindi	O	-	-
+2	pa	O	-	-
+3	man	O	-	-
+4	lamang	O	-	-
+5	tuloy	O	-	-
+6	siya	O	-	-
+7	nakakapagalmusal	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0003-0002
+# text = Mayroong libro sa mesa.
+1	Mayroong	O	-	-
+2	libro	O	-	-
+3	sa	O	-	-
+4	mesa	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0003-0003
+# text = Walang libro sa mesa.
+1	Walang	O	-	-
+2	libro	O	-	-
+3	sa	O	-	-
+4	mesa	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0003-0004
+# text = Mayroong libro ang bata.
+1	Mayroong	O	-	-
+2	libro	O	-	-
+3	ang	O	-	-
+4	bata	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0003-0005
+# text = Walang libro ang bata.
+1	Walang	O	-	-
+2	libro	O	-	-
+3	ang	O	-	-
+4	bata	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0003-0006
+# text = Mabuti ba ang ani?
+1	Mabuti	O	-	-
+2	ba	O	-	-
+3	ang	O	-	-
+4	ani	O	-	-
+5	?	O	-	-
+
+# sent_id = batch-0003-0007
+# text = Mabuti kaya ang ani?
+1	Mabuti	O	-	-
+2	kaya	O	-	-
+3	ang	O	-	-
+4	ani	O	-	-
+5	?	O	-	-
+
+# sent_id = batch-0003-0008
+# text = Mabuti sana ang ani.
+1	Mabuti	O	-	-
+2	sana	O	-	-
+3	ang	O	-	-
+4	ani	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0003-0009
+# text = Huwag kayong umalis.
+1	Huwag	O	-	-
+2	kayong	O	-	-
+3	umalis	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0003-0010
+# text = Huwag siyang pumarito.
+1	Huwag	O	-	-
+2	siyang	O	-	-
+3	pumarito	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0003-0011
+# text = Magaalis ang babae ng bigas sa sako para sa bata.
+1	Magaalis	O	-	-
+2	ang	O	-	-
+3	babae	O	-	-
+4	ng	O	-	-
+5	bigas	O	-	-
+6	sa	O	-	-
+7	sako	O	-	-
+8	para	O	-	-
+9	sa	O	-	-
+10	bata	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0003-0012
+# text = Aalisin ng babae ang bigas sa sako para sa bata.
+1	Aalisin	O	-	-
+2	ng	O	-	-
+3	babae	O	-	-
+4	ang	O	-	-
+5	bigas	O	-	-
+6	sa	O	-	-
+7	sako	O	-	-
+8	para	O	-	-
+9	sa	O	-	-
+10	bata	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0003-0013
+# text = Aalisan ng babae ng bigas ang sako para sa bata.
+1	Aalisan	O	-	-
+2	ng	O	-	-
+3	babae	O	-	-
+4	ng	O	-	-
+5	bigas	O	-	-
+6	ang	O	-	-
+7	sako	O	-	-
+8	para	O	-	-
+9	sa	O	-	-
+10	bata	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0003-0014
+# text = Ipagaalis ng babae ng bigas sa sako ang bata.
+1	Ipagaalis	O	-	-
+2	ng	O	-	-
+3	babae	O	-	-
+4	ng	O	-	-
+5	bigas	O	-	-
+6	sa	O	-	-
+7	sako	O	-	-
+8	ang	O	-	-
+9	bata	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0003-0015
+# text = Matalino ang lalaking bumasa ng diyaryo.
+1	Matalino	O	-	-
+2	ang	O	-	-
+3	lalaking	O	-	-
+4	bumasa	O	-	-
+5	ng	O	-	-
+6	diyaryo	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0003-0016
+# text = Interesante ang diyaryong binasa ng lalaki.
+1	Interesante	O	-	-
+2	ang	O	-	-
+3	diyaryong	O	-	-
+4	binasa	O	-	-
+5	ng	O	-	-
+6	lalaki	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0003-0017
+# text = Susulat lahat ang mga bata ng mga liham.
+1	Susulat	O	-	-
+2	lahat	O	-	-
+3	ang	O	-	-
+4	mga	O	-	-
+5	bata	O	-	-
+6	ng	O	-	-
+7	mga	O	-	-
+8	liham	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0003-0018
+# text = Susulatin lahat ng mga bata ang mga liham.
+1	Susulatin	O	-	-
+2	lahat	O	-	-
+3	ng	O	-	-
+4	mga	O	-	-
+5	bata	O	-	-
+6	ang	O	-	-
+7	mga	O	-	-
+8	liham	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0003-0019
+# text = Nagalala ang lolo sa kaniyang sarili.
+1	Nagalala	O	-	-
+2	ang	O	-	-
+3	lolo	O	-	-
+4	sa	O	-	-
+5	kaniyang	O	-	-
+6	sarili	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0003-0020
+# text = Inalala ng lolo ang kaniyang sarili.
+1	Inalala	O	-	-
+2	ng	O	-	-
+3	lolo	O	-	-
+4	ang	O	-	-
+5	kaniyang	O	-	-
+6	sarili	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0003-0021
+# text = Iniabot niya sa bata ang kaniyang sariling larawan.
+1	Iniabot	O	-	-
+2	niya	O	-	-
+3	sa	O	-	-
+4	bata	O	-	-
+5	ang	O	-	-
+6	kaniyang	O	-	-
+7	sariling	O	-	-
+8	larawan	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0003-0022
+# text = Tumanggap ang Rosa ng sulat para sa bata sa kaniyang sarili.
+1	Tumanggap	O	-	-
+2	ang	O	-	-
+3	Rosa	B-PER	-	ljmiranda
+4	ng	O	-	-
+5	sulat	O	-	-
+6	para	O	-	-
+7	sa	O	-	-
+8	bata	O	-	-
+9	sa	O	-	-
+10	kaniyang	O	-	-
+11	sarili	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0003-0023
+# text = Magbigay ka sa kaniya ng kape.
+1	Magbigay	O	-	-
+2	ka	O	-	-
+3	sa	O	-	-
+4	kaniya	O	-	-
+5	ng	O	-	-
+6	kape	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0003-0024
+# text = Bigyan mo siya ng kape.
+1	Bigyan	O	-	-
+2	mo	O	-	-
+3	siya	O	-	-
+4	ng	O	-	-
+5	kape	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0003-0025
+# text = Walisan natin ang sahig.
+1	Walisan	O	-	-
+2	natin	O	-	-
+3	ang	O	-	-
+4	sahig	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0003-0026
+# text = Walisan nila ang sahig.
+1	Walisan	O	-	-
+2	nila	O	-	-
+3	ang	O	-	-
+4	sahig	O	-	-
+5	.	O	-	-
+
+# sent_id = batch-0003-0027
+# text = Nagatubili siyang humiram ng pera sa banko.
+1	Nagatubili	O	-	-
+2	siyang	O	-	-
+3	humiram	O	-	-
+4	ng	O	-	-
+5	pera	O	-	-
+6	sa	O	-	-
+7	banko	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0003-0028
+# text = Nagatubili siyang hiramin ang pera sa banko.
+1	Nagatubili	O	-	-
+2	siyang	O	-	-
+3	hiramin	O	-	-
+4	ang	O	-	-
+5	pera	O	-	-
+6	sa	O	-	-
+7	banko	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0003-0029
+# text = Gusto ni Juan suriin siya ng doktor.
+1	Gusto	O	-	-
+2	ni	O	-	-
+3	Juan	B-PER	-	ljmiranda
+4	suriin	O	-	-
+5	siya	O	-	-
+6	ng	O	-	-
+7	doktor	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0003-0030
+# text = Masagwa ang tumatanda.
+1	Masagwa	O	-	-
+2	ang	O	-	-
+3	tumatanda	O	-	-
+4	.	O	-	-
+
+# newdoc id = batch-0004
+# sent_id = batch-0004-0001
+# text = Gusto niyang gumanda.
+1	Gusto	O	-	-
+2	niyang	O	-	-
+3	gumanda	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0004-0002
+# text = Gusto kong tumanggap ng gantimpala.
+1	Gusto	O	-	-
+2	kong	O	-	-
+3	tumanggap	O	-	-
+4	ng	O	-	-
+5	gantimpala	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0004-0003
+# text = Gusto kong matanggap ang gantimpala.
+1	Gusto	O	-	-
+2	kong	O	-	-
+3	matanggap	O	-	-
+4	ang	O	-	-
+5	gantimpala	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0004-0004
+# text = Ayaw kong mamatay sa Maynila.
+1	Ayaw	O	-	-
+2	kong	O	-	-
+3	mamatay	O	-	-
+4	sa	O	-	-
+5	Maynila	B-LOC	-	ljmiranda
+6	.	O	-	-
+
+# sent_id = batch-0004-0005
+# text = Binisita ni Juan ang hari nang nagiisa.
+1	Binisita	O	-	-
+2	ni	O	-	-
+3	Juan	B-PER	-	ljmiranda
+4	ang	O	-	-
+5	hari	O	-	-
+6	nang	O	-	-
+7	nagiisa	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0004-0006
+# text = Bumisita si Juan sa hari nang nagiisa.
+1	Bumisita	O	-	-
+2	si	O	-	-
+3	Juan	B-PER	-	ljmiranda
+4	sa	O	-	-
+5	hari	O	-	-
+6	nang	O	-	-
+7	nagiisa	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0004-0007
+# text = Hinuli ng polis ang mgananakaw nang pumapasok sa banko.
+1	Hinuli	O	-	-
+2	ng	O	-	-
+3	polis	O	-	-
+4	ang	O	-	-
+5	mgananakaw	O	-	-
+6	nang	O	-	-
+7	pumapasok	O	-	-
+8	sa	O	-	-
+9	banko	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0004-0008
+# text = Nanghuli ng mgananakaw ang polis nang pumapasok sa banko.
+1	Nanghuli	O	-	-
+2	ng	O	-	-
+3	mgananakaw	O	-	-
+4	ang	O	-	-
+5	polis	O	-	-
+6	nang	O	-	-
+7	pumapasok	O	-	-
+8	sa	O	-	-
+9	banko	O	-	-
+10	.	O	-	-
+

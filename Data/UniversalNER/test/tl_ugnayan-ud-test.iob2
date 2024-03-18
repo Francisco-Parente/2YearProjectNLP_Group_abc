@@ -1,0 +1,1383 @@
+# newdoc id = batch-0000
+# sent_id = batch-0000-0001
+# text = "Tay, pwede ba ako -ng sumama sa pasada ninyo?" tanong ko kay Tatay.
+1	"	O	-	-
+2	Tay	O	-	-
+3	,	O	-	-
+4	pwede	O	-	-
+5	ba	O	-	-
+6	ako	O	-	-
+7	-ng	O	-	-
+8	sumama	O	-	-
+9	sa	O	-	-
+10	pasada	O	-	-
+11	ninyo	O	-	-
+12	?	O	-	-
+13	"	O	-	-
+14	tanong	O	-	-
+15	ko	O	-	-
+16	kay	O	-	-
+17	Tatay	O	-	-
+18	.	O	-	-
+
+# sent_id = batch-0000-0002
+# text = "Sabado naman ngayon e."
+1	"	O	-	-
+2	Sabado	O	-	-
+3	naman	O	-	-
+4	ngayon	O	-	-
+5	e	O	-	-
+6	.	O	-	-
+7	"	O	-	-
+
+# sent_id = batch-0000-0003
+# text = Sandali -ng nag-isip si Tatay bago niya sinabi -ng , "Sige ba, anak!"
+1	Sandali	O	-	-
+2	-ng	O	-	-
+3	nag-isip	O	-	-
+4	si	O	-	-
+5	Tatay	O	-	-
+6	bago	O	-	-
+7	niya	O	-	-
+8	sinabi	O	-	-
+9	-ng	O	-	-
+10	,	O	-	-
+11	"	O	-	-
+12	Sige	O	-	-
+13	ba	O	-	-
+14	,	O	-	-
+15	anak	O	-	-
+16	!	O	-	-
+17	"	O	-	-
+
+# sent_id = batch-0000-0004
+# text = Umakyat ako sa jeep ni Tatay at umupo sa tabi niya.
+1	Umakyat	O	-	-
+2	ako	O	-	-
+3	sa	O	-	-
+4	jeep	O	-	-
+5	ni	O	-	-
+6	Tatay	O	-	-
+7	at	O	-	-
+8	umupo	O	-	-
+9	sa	O	-	-
+10	tabi	O	-	-
+11	niya	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0000-0005
+# text = At doon nagsimula ang isa -ng kakaiba -ng araw para sa akin.
+1	At	O	-	-
+2	doon	O	-	-
+3	nagsimula	O	-	-
+4	ang	O	-	-
+5	isa	O	-	-
+6	-ng	O	-	-
+7	kakaiba	O	-	-
+8	-ng	O	-	-
+9	araw	O	-	-
+10	para	O	-	-
+11	sa	O	-	-
+12	akin	O	-	-
+13	.	O	-	-
+
+# sent_id = batch-0000-0006
+# text = Drayber kasi ng jeepney ang tatay ko.
+1	Drayber	O	-	-
+2	kasi	O	-	-
+3	ng	O	-	-
+4	jeepney	O	-	-
+5	ang	O	-	-
+6	tatay	O	-	-
+7	ko	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0000-0007
+# text = At ngayon -ng araw ay kasama niya ako -ng pumasada!
+1	At	O	-	-
+2	ngayon	O	-	-
+3	-ng	O	-	-
+4	araw	O	-	-
+5	ay	O	-	-
+6	kasama	O	-	-
+7	niya	O	-	-
+8	ako	O	-	-
+9	-ng	O	-	-
+10	pumasada	O	-	-
+11	!	O	-	-
+
+# sent_id = batch-0000-0008
+# text = Tuwing sumasama ako sa pasada, ako ang opisyal na tagakolekta ng bayad.
+1	Tuwing	O	-	-
+2	sumasama	O	-	-
+3	ako	O	-	-
+4	sa	O	-	-
+5	pasada	O	-	-
+6	,	O	-	-
+7	ako	O	-	-
+8	ang	O	-	-
+9	opisyal	O	-	-
+10	na	O	-	-
+11	tagakolekta	O	-	-
+12	ng	O	-	-
+13	bayad	O	-	-
+14	.	O	-	-
+
+# sent_id = batch-0000-0009
+# text = Iba't iba -ng tao ang sumasakay sa jeepney ni Tatay.
+1	Iba	O	-	-
+2	't	O	-	-
+3	iba	O	-	-
+4	-ng	O	-	-
+5	tao	O	-	-
+6	ang	O	-	-
+7	sumasakay	O	-	-
+8	sa	O	-	-
+9	jeepney	O	-	-
+10	ni	O	-	-
+11	Tatay	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0000-0010
+# text = May mga estudyante -ng papasok ng eskuwela.
+1	May	O	-	-
+2	mga	O	-	-
+3	estudyante	O	-	-
+4	-ng	O	-	-
+5	papasok	O	-	-
+6	ng	O	-	-
+7	eskuwela	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0000-0011
+# text = Nakasuot sila ng uniporme at marami -ng dala -ng libro.
+1	Nakasuot	O	-	-
+2	sila	O	-	-
+3	ng	O	-	-
+4	uniporme	O	-	-
+5	at	O	-	-
+6	marami	O	-	-
+7	-ng	O	-	-
+8	dala	O	-	-
+9	-ng	O	-	-
+10	libro	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0000-0012
+# text = May ale -ng mamamalengke na may dala -ng bayong.
+1	May	O	-	-
+2	ale	O	-	-
+3	-ng	O	-	-
+4	mamamalengke	O	-	-
+5	na	O	-	-
+6	may	O	-	-
+7	dala	O	-	-
+8	-ng	O	-	-
+9	bayong	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0000-0013
+# text = May nanay na may kasama -ng anak.
+1	May	O	-	-
+2	nanay	O	-	-
+3	na	O	-	-
+4	may	O	-	-
+5	kasama	O	-	-
+6	-ng	O	-	-
+7	anak	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0000-0014
+# text = Pero may isa -ng tao -ng sumakay na bukod-tangi.
+1	Pero	O	-	-
+2	may	O	-	-
+3	isa	O	-	-
+4	-ng	O	-	-
+5	tao	O	-	-
+6	-ng	O	-	-
+7	sumakay	O	-	-
+8	na	O	-	-
+9	bukod	O	-	-
+10	-	O	-	-
+11	tangi	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0000-0015
+# text = Ang suot niya'y makulay na kamiseta at pantalon na sobrang luwang sa kaniya.
+1	Ang	O	-	-
+2	suot	O	-	-
+3	niya	O	-	-
+4	'y	O	-	-
+5	makulay	O	-	-
+6	na	O	-	-
+7	kamiseta	O	-	-
+8	at	O	-	-
+9	pantalon	O	-	-
+10	na	O	-	-
+11	sobrang	O	-	-
+12	luwang	O	-	-
+13	sa	O	-	-
+14	kaniya	O	-	-
+15	.	O	-	-
+
+# sent_id = batch-0000-0016
+# text = Napakalaki ng sapatos niya -ng pula!
+1	Napakalaki	O	-	-
+2	ng	O	-	-
+3	sapatos	O	-	-
+4	niya	O	-	-
+5	-ng	O	-	-
+6	pula	O	-	-
+7	!	O	-	-
+
+# sent_id = batch-0000-0017
+# text = Pula rin ang ilong niya.
+1	Pula	O	-	-
+2	rin	O	-	-
+3	ang	O	-	-
+4	ilong	O	-	-
+5	niya	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0000-0018
+# text = Puti -ng -puti ang mukha niya at kulay asul ang kulot niya -ng buhok.
+1	Puti	O	-	-
+2	-ng	O	-	-
+3	-	O	-	-
+4	puti	O	-	-
+5	ang	O	-	-
+6	mukha	O	-	-
+7	niya	O	-	-
+8	at	O	-	-
+9	kulay	O	-	-
+10	asul	O	-	-
+11	ang	O	-	-
+12	kulot	O	-	-
+13	niya	O	-	-
+14	-ng	O	-	-
+15	buhok	O	-	-
+16	.	O	-	-
+
+# sent_id = batch-0000-0019
+# text = Hindi ko mapigilan -ng tignan ang kakaiba -ng tao -ng ito sa salamin.
+1	Hindi	O	-	-
+2	ko	O	-	-
+3	mapigilan	O	-	-
+4	-ng	O	-	-
+5	tignan	O	-	-
+6	ang	O	-	-
+7	kakaiba	O	-	-
+8	-ng	O	-	-
+9	tao	O	-	-
+10	-ng	O	-	-
+11	ito	O	-	-
+12	sa	O	-	-
+13	salamin	O	-	-
+14	.	O	-	-
+
+# sent_id = batch-0000-0020
+# text = Tinititigan din siya ng mga katabi niya.
+1	Tinititigan	O	-	-
+2	din	O	-	-
+3	siya	O	-	-
+4	ng	O	-	-
+5	mga	O	-	-
+6	katabi	O	-	-
+7	niya	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0000-0021
+# text = Ngumiti siya sa mga kasakay niya sabay-labas ng lima -ng bola mula sa kaniya -ng bulsa.
+1	Ngumiti	O	-	-
+2	siya	O	-	-
+3	sa	O	-	-
+4	mga	O	-	-
+5	kasakay	B-PER	-	ljmiranda
+6	niya	O	-	-
+7	sabay	O	-	-
+8	-	O	-	-
+9	labas	O	-	-
+10	ng	O	-	-
+11	lima	O	-	-
+12	-ng	O	-	-
+13	bola	O	-	-
+14	mula	O	-	-
+15	sa	O	-	-
+16	kaniya	O	-	-
+17	-ng	O	-	-
+18	bulsa	O	-	-
+19	.	O	-	-
+
+# sent_id = batch-0000-0022
+# text = Isa-isa niya -ng itinapon ang mga bola pataas at sinalo.
+1	Isa-isa	O	-	-
+2	niya	O	-	-
+3	-ng	O	-	-
+4	itinapon	O	-	-
+5	ang	O	-	-
+6	mga	O	-	-
+7	bola	O	-	-
+8	pataas	O	-	-
+9	at	O	-	-
+10	sinalo	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0000-0023
+# text = Paulit-ulit niya ito -ng ginawa at wala ni isa -ng bola -ng nahulog!
+1	Paulit-ulit	O	-	-
+2	niya	O	-	-
+3	ito	O	-	-
+4	-ng	O	-	-
+5	ginawa	O	-	-
+6	at	O	-	-
+7	wala	O	-	-
+8	ni	O	-	-
+9	isa	O	-	-
+10	-ng	O	-	-
+11	bola	O	-	-
+12	-ng	O	-	-
+13	nahulog	O	-	-
+14	!	O	-	-
+
+# sent_id = batch-0000-0024
+# text = "Wow! Ang galing!" sabi ng mga kasakay at pumalakpak kami -ng lahat.
+1	"	O	-	-
+2	Wow	O	-	-
+3	!	O	-	-
+4	Ang	O	-	-
+5	galing	O	-	-
+6	!	O	-	-
+7	"	O	-	-
+8	sabi	O	-	-
+9	ng	O	-	-
+10	mga	O	-	-
+11	kasakay	B-PER	-	ljmiranda
+12	at	O	-	-
+13	pumalakpak	O	-	-
+14	kami	O	-	-
+15	-ng	O	-	-
+16	lahat	O	-	-
+17	.	O	-	-
+
+# sent_id = batch-0000-0025
+# text = Pagliko namin sa isa -ng kanto, may inilabas naman siya sa isa pa niya -ng bulsa.
+1	Pagliko	O	-	-
+2	namin	O	-	-
+3	sa	O	-	-
+4	isa	O	-	-
+5	-ng	O	-	-
+6	kanto	O	-	-
+7	,	O	-	-
+8	may	O	-	-
+9	inilabas	O	-	-
+10	naman	O	-	-
+11	siya	O	-	-
+12	sa	O	-	-
+13	isa	O	-	-
+14	pa	O	-	-
+15	niya	O	-	-
+16	-ng	O	-	-
+17	bulsa	O	-	-
+18	.	O	-	-
+
+# sent_id = batch-0000-0026
+# text = Inilagay niya ito sa kaniya -ng bibig at nagsimula siya -ng umihip.
+1	Inilagay	O	-	-
+2	niya	O	-	-
+3	ito	O	-	-
+4	sa	O	-	-
+5	kaniya	O	-	-
+6	-ng	O	-	-
+7	bibig	O	-	-
+8	at	O	-	-
+9	nagsimula	O	-	-
+10	siya	O	-	-
+11	-ng	O	-	-
+12	umihip	O	-	-
+13	.	O	-	-
+
+# sent_id = batch-0000-0027
+# text = Makaraan ng ilan -ng sandali naging isa -ng mahaba -ng lobo ito.
+1	Makaraan	O	-	-
+2	ng	O	-	-
+3	ilan	O	-	-
+4	-ng	O	-	-
+5	sandali	O	-	-
+6	naging	O	-	-
+7	isa	O	-	-
+8	-ng	O	-	-
+9	mahaba	O	-	-
+10	-ng	O	-	-
+11	lobo	O	-	-
+12	ito	O	-	-
+13	.	O	-	-
+
+# sent_id = batch-0000-0028
+# text = Pagkatapos, ipinilipit niya ang lobo.
+1	Pagkatapos	O	-	-
+2	,	O	-	-
+3	ipinilipit	O	-	-
+4	niya	O	-	-
+5	ang	O	-	-
+6	lobo	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0000-0029
+# text = "Wow! Nagmukha -ng aso ang lobo!" sigaw ko.
+1	"	O	-	-
+2	Wow	O	-	-
+3	!	O	-	-
+4	Nagmukha	O	-	-
+5	-ng	O	-	-
+6	aso	O	-	-
+7	ang	O	-	-
+8	lobo	O	-	-
+9	!	O	-	-
+10	"	O	-	-
+11	sigaw	O	-	-
+12	ko	O	-	-
+13	.	O	-	-
+
+# sent_id = batch-0000-0030
+# text = Nagpalakpakan uli ang mga pasahero ni Tatay.
+1	Nagpalakpakan	O	-	-
+2	uli	O	-	-
+3	ang	O	-	-
+4	mga	O	-	-
+5	pasahero	O	-	-
+6	ni	O	-	-
+7	Tatay	O	-	-
+8	.	O	-	-
+
+# newdoc id = batch-0001
+# sent_id = batch-0001-0001
+# text = Nang malapit na kami sa plasa, may inilabas naman siya -ng makulay na bulaklak.
+1	Nang	O	-	-
+2	malapit	O	-	-
+3	na	O	-	-
+4	kami	O	-	-
+5	sa	O	-	-
+6	plasa	O	-	-
+7	,	O	-	-
+8	may	O	-	-
+9	inilabas	O	-	-
+10	naman	O	-	-
+11	siya	O	-	-
+12	-ng	O	-	-
+13	makulay	O	-	-
+14	na	O	-	-
+15	bulaklak	O	-	-
+16	.	O	-	-
+
+# sent_id = batch-0001-0002
+# text = Inamoy niya ito.
+1	Inamoy	O	-	-
+2	niya	O	-	-
+3	ito	O	-	-
+4	.	O	-	-
+
+# sent_id = batch-0001-0003
+# text = Tila ang bango ng bulaklak dahil napapikit siya at napangiti.
+1	Tila	O	-	-
+2	ang	O	-	-
+3	bango	O	-	-
+4	ng	O	-	-
+5	bulaklak	O	-	-
+6	dahil	O	-	-
+7	napapikit	O	-	-
+8	siya	O	-	-
+9	at	O	-	-
+10	napangiti	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0001-0004
+# text = Sumenyas siya sa mga kapuwa pasahero niya para amuyin din nila ang hawak niya -ng bulaklak.
+1	Sumenyas	O	-	-
+2	siya	O	-	-
+3	sa	O	-	-
+4	mga	O	-	-
+5	kapuwa	O	-	-
+6	pasahero	O	-	-
+7	niya	O	-	-
+8	para	O	-	-
+9	amuyin	O	-	-
+10	din	O	-	-
+11	nila	O	-	-
+12	ang	O	-	-
+13	hawak	O	-	-
+14	niya	O	-	-
+15	-ng	O	-	-
+16	bulaklak	O	-	-
+17	.	O	-	-
+
+# sent_id = batch-0001-0005
+# text = Inamoy nga ng ale -ng katabi niya ang bulaklak.
+1	Inamoy	O	-	-
+2	nga	O	-	-
+3	ng	O	-	-
+4	ale	O	-	-
+5	-ng	O	-	-
+6	katabi	O	-	-
+7	niya	O	-	-
+8	ang	O	-	-
+9	bulaklak	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0001-0006
+# text = Bigla na lang may lumabas na tubig sa bulaklak!
+1	Bigla	O	-	-
+2	na	O	-	-
+3	lang	O	-	-
+4	may	O	-	-
+5	lumabas	O	-	-
+6	na	O	-	-
+7	tubig	O	-	-
+8	sa	O	-	-
+9	bulaklak	O	-	-
+10	!	O	-	-
+
+# sent_id = batch-0001-0007
+# text = Nabasa ang mukha ng ale.
+1	Nabasa	O	-	-
+2	ang	O	-	-
+3	mukha	O	-	-
+4	ng	O	-	-
+5	ale	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0001-0008
+# text = Pero hindi siya nagalit - napangiti pa siya!
+1	Pero	O	-	-
+2	hindi	O	-	-
+3	siya	O	-	-
+4	nagalit	O	-	-
+5	-	O	-	-
+6	napangiti	O	-	-
+7	pa	O	-	-
+8	siya	O	-	-
+9	!	O	-	-
+
+# sent_id = batch-0001-0009
+# text = Tumawa nang malakas ang iba pa -ng pasahero.
+1	Tumawa	O	-	-
+2	nang	O	-	-
+3	malakas	O	-	-
+4	ang	O	-	-
+5	iba	O	-	-
+6	pa	O	-	-
+7	-ng	O	-	-
+8	pasahero	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0001-0010
+# text = "Para po!" sabi ng kakaiba -ng mama.
+1	"	O	-	-
+2	Para	O	-	-
+3	po	O	-	-
+4	!	O	-	-
+5	"	O	-	-
+6	sabi	O	-	-
+7	ng	O	-	-
+8	kakaiba	O	-	-
+9	-ng	O	-	-
+10	mama	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0001-0011
+# text = Inabot niya sa akin ang bayad at isa -ng lobo.
+1	Inabot	O	-	-
+2	niya	O	-	-
+3	sa	O	-	-
+4	akin	O	-	-
+5	ang	O	-	-
+6	bayad	O	-	-
+7	at	O	-	-
+8	isa	O	-	-
+9	-ng	O	-	-
+10	lobo	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0001-0012
+# text = "Marami -ng salamat po!" sabi ko.
+1	"	O	-	-
+2	Marami	O	-	-
+3	-ng	O	-	-
+4	salamat	O	-	-
+5	po	O	-	-
+6	!	O	-	-
+7	"	O	-	-
+8	sabi	O	-	-
+9	ko	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0001-0013
+# text = Tumingin ako kay Tatay na nakangiti rin.
+1	Tumingin	O	-	-
+2	ako	O	-	-
+3	kay	O	-	-
+4	Tatay	O	-	-
+5	na	O	-	-
+6	nakangiti	O	-	-
+7	rin	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0001-0014
+# text = Nagpasalamat din si Tatay sa mama.
+1	Nagpasalamat	O	-	-
+2	din	O	-	-
+3	si	O	-	-
+4	Tatay	O	-	-
+5	sa	O	-	-
+6	mama	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0001-0015
+# text = Tumingin ako sa bahay na pinagbabaan niya - marami -ng lobo at bata.
+1	Tumingin	O	-	-
+2	ako	O	-	-
+3	sa	O	-	-
+4	bahay	O	-	-
+5	na	O	-	-
+6	pinagbabaan	O	-	-
+7	niya	O	-	-
+8	-	O	-	-
+9	marami	O	-	-
+10	-ng	O	-	-
+11	lobo	O	-	-
+12	at	O	-	-
+13	bata	O	-	-
+14	.	O	-	-
+
+# sent_id = batch-0001-0016
+# text = Mukha -ng may party!
+1	Mukha	O	-	-
+2	-ng	O	-	-
+3	may	O	-	-
+4	party	O	-	-
+5	!	O	-	-
+
+# sent_id = batch-0001-0017
+# text = Kakaiba talaga ang araw na ito!
+1	Kakaiba	O	-	-
+2	talaga	O	-	-
+3	ang	O	-	-
+4	araw	O	-	-
+5	na	O	-	-
+6	ito	O	-	-
+7	!	O	-	-
+
+# sent_id = batch-0001-0018
+# text = Parang nag-party din kami sa loob ng jeep ni Tatay dahil sa payaso -ng pasahero namin!
+1	Parang	O	-	-
+2	nag-party	O	-	-
+3	din	O	-	-
+4	kami	O	-	-
+5	sa	O	-	-
+6	loob	O	-	-
+7	ng	O	-	-
+8	jeep	O	-	-
+9	ni	O	-	-
+10	Tatay	O	-	-
+11	dahil	O	-	-
+12	sa	O	-	-
+13	payaso	O	-	-
+14	-ng	O	-	-
+15	pasahero	O	-	-
+16	namin	O	-	-
+17	!	O	-	-
+
+# sent_id = batch-0001-0019
+# text = Alamin natin ang mga anyong-tubig sa Pilipinas!
+1	Alamin	O	-	-
+2	natin	O	-	-
+3	ang	O	-	-
+4	mga	O	-	-
+5	anyong	O	-	-
+6	-	O	-	-
+7	tubig	O	-	-
+8	sa	O	-	-
+9	Pilipinas	B-LOC	-	myron
+10	!	O	-	-
+
+# sent_id = batch-0001-0020
+# text = Ang Pilipinas ay binubuo ng marami -ng isla.
+1	Ang	O	-	-
+2	Pilipinas	B-LOC	-	myron
+3	ay	O	-	-
+4	binubuo	O	-	-
+5	ng	O	-	-
+6	marami	O	-	-
+7	-ng	O	-	-
+8	isla	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0001-0021
+# text = Ang kalupaan nito ay pinaliligiran ng marami -ng anyong-tubig.
+1	Ang	O	-	-
+2	kalupaan	O	-	-
+3	nito	O	-	-
+4	ay	O	-	-
+5	pinaliligiran	O	-	-
+6	ng	O	-	-
+7	marami	O	-	-
+8	-ng	O	-	-
+9	anyong	O	-	-
+10	-	O	-	-
+11	tubig	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0001-0022
+# text = Isa tayo sa mga bansa -ng may pinakamahaba -ng baybayin.
+1	Isa	O	-	-
+2	tayo	O	-	-
+3	sa	O	-	-
+4	mga	O	-	-
+5	bansa	O	-	-
+6	-ng	O	-	-
+7	may	O	-	-
+8	pinakamahaba	O	-	-
+9	-ng	O	-	-
+10	baybayin	O	-	-
+11	.	O	-	-
+
+# sent_id = batch-0001-0023
+# text = May malalaki -ng anyong-tubig, mayroon din -ng maliliit.
+1	May	O	-	-
+2	malalaki	O	-	-
+3	-ng	O	-	-
+4	anyong	O	-	-
+5	-	O	-	-
+6	tubig	O	-	-
+7	,	O	-	-
+8	mayroon	O	-	-
+9	din	O	-	-
+10	-ng	O	-	-
+11	maliliit	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0001-0024
+# text = Marami -ng kabutihan -ng naidudulot ang mga anyong-tubig na ito.
+1	Marami	O	-	-
+2	-ng	O	-	-
+3	kabutihan	O	-	-
+4	-ng	O	-	-
+5	naidudulot	O	-	-
+6	ang	O	-	-
+7	mga	O	-	-
+8	anyong	O	-	-
+9	-	O	-	-
+10	tubig	O	-	-
+11	na	O	-	-
+12	ito	O	-	-
+13	.	O	-	-
+
+# sent_id = batch-0001-0025
+# text = Alamin natin ang iba't iba -ng anyong-tubig sa Pilipinas!
+1	Alamin	O	-	-
+2	natin	O	-	-
+3	ang	O	-	-
+4	iba	O	-	-
+5	't	O	-	-
+6	iba	O	-	-
+7	-ng	O	-	-
+8	anyong	O	-	-
+9	-	O	-	-
+10	tubig	O	-	-
+11	sa	O	-	-
+12	Pilipinas	B-LOC	-	myron
+13	!	O	-	-
+
+# sent_id = batch-0001-0026
+# text = Nakakita ka na ba ng lawa na may bulkan sa gitna?
+1	Nakakita	O	-	-
+2	ka	O	-	-
+3	na	O	-	-
+4	ba	O	-	-
+5	ng	O	-	-
+6	lawa	O	-	-
+7	na	O	-	-
+8	may	O	-	-
+9	bulkan	O	-	-
+10	sa	O	-	-
+11	gitna	O	-	-
+12	?	O	-	-
+
+# sent_id = batch-0001-0027
+# text = Ganito ang Lawa ng Taal sa probinsya ng Batangas.
+1	Ganito	O	-	-
+2	ang	O	-	-
+3	Lawa	O	-	-
+4	ng	O	-	-
+5	Taal	B-LOC	-	myron
+6	sa	O	-	-
+7	probinsya	O	-	-
+8	ng	O	-	-
+9	Batangas	B-LOC	-	myron
+10	.	O	-	-
+
+# sent_id = batch-0001-0028
+# text = Sa gitna ng lawa nito ay ang Bulkang Taal.
+1	Sa	O	-	-
+2	gitna	O	-	-
+3	ng	O	-	-
+4	lawa	O	-	-
+5	nito	O	-	-
+6	ay	O	-	-
+7	ang	O	-	-
+8	Bulkang	B-LOC	-	myron
+9	Taal	I-LOC	-	myron
+10	.	O	-	-
+
+# sent_id = batch-0001-0029
+# text = Nabuo ang lawa -ng ito dahil sa isa -ng pagsabog ng bulkan, ilan -ng daan -ng taon na ang nakaraan.
+1	Nabuo	O	-	-
+2	ang	O	-	-
+3	lawa	O	-	-
+4	-ng	O	-	-
+5	ito	O	-	-
+6	dahil	O	-	-
+7	sa	O	-	-
+8	isa	O	-	-
+9	-ng	O	-	-
+10	pagsabog	O	-	-
+11	ng	O	-	-
+12	bulkan	O	-	-
+13	,	O	-	-
+14	ilan	O	-	-
+15	-ng	O	-	-
+16	daan	O	-	-
+17	-ng	O	-	-
+18	taon	O	-	-
+19	na	O	-	-
+20	ang	O	-	-
+21	nakaraan	O	-	-
+22	.	O	-	-
+
+# sent_id = batch-0001-0030
+# text = Alam ba ninyo -ng may isa pa -ng lawa sa loob ng Bulkang Taal?
+1	Alam	O	-	-
+2	ba	O	-	-
+3	ninyo	O	-	-
+4	-ng	O	-	-
+5	may	O	-	-
+6	isa	O	-	-
+7	pa	O	-	-
+8	-ng	O	-	-
+9	lawa	O	-	-
+10	sa	O	-	-
+11	loob	O	-	-
+12	ng	O	-	-
+13	Bulkang	B-LOC	-	myron
+14	Taal	I-LOC	-	myron
+15	?	O	-	-
+
+# newdoc id = batch-0002
+# sent_id = batch-0002-0001
+# text = Pambihira talaga!
+1	Pambihira	O	-	-
+2	talaga	O	-	-
+3	!	O	-	-
+
+# sent_id = batch-0002-0002
+# text = Marami -ng turista -ng pumupunta sa Lawa ng Taal at sa Bulkang Taal.
+1	Marami	O	-	-
+2	-ng	O	-	-
+3	turista	O	-	-
+4	-ng	O	-	-
+5	pumupunta	O	-	-
+6	sa	O	-	-
+7	Lawa	O	-	-
+8	ng	O	-	-
+9	Taal	B-LOC	-	myron
+10	at	O	-	-
+11	sa	O	-	-
+12	Bulkang	B-LOC	-	myron
+13	Taal	I-LOC	-	myron
+14	.	O	-	-
+
+# sent_id = batch-0002-0003
+# text = Sumasakay sila ng bangka patungo sa bulkan, na kanilang inaakyat.
+1	Sumasakay	O	-	-
+2	sila	O	-	-
+3	ng	O	-	-
+4	bangka	O	-	-
+5	patungo	O	-	-
+6	sa	O	-	-
+7	bulkan	O	-	-
+8	,	O	-	-
+9	na	O	-	-
+10	kanilang	O	-	-
+11	inaakyat	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0002-0004
+# text = Marami talaga ang nakikinabang sa lawa -ng ito.
+1	Marami	O	-	-
+2	talaga	O	-	-
+3	ang	O	-	-
+4	nakikinabang	O	-	-
+5	sa	O	-	-
+6	lawa	O	-	-
+7	-ng	O	-	-
+8	ito	O	-	-
+9	.	O	-	-
+
+# sent_id = batch-0002-0005
+# text = Bukod sa mga nakikinabang sa turismo, marami ang nag-aalaga ng bangus at tilapia sa Lawa ng Taal.
+1	Bukod	O	-	-
+2	sa	O	-	-
+3	mga	O	-	-
+4	nakikinabang	O	-	-
+5	sa	O	-	-
+6	turismo	O	-	-
+7	,	O	-	-
+8	marami	O	-	-
+9	ang	O	-	-
+10	nag-aalaga	O	-	-
+11	ng	O	-	-
+12	bangus	O	-	-
+13	at	O	-	-
+14	tilapia	O	-	-
+15	sa	O	-	-
+16	Lawa	O	-	-
+17	ng	O	-	-
+18	Taal	B-LOC	-	myron
+19	.	O	-	-
+
+# sent_id = batch-0002-0006
+# text = Alam mo ba kung ano ang pinakamahaba -ng ilog sa Pilipinas?
+1	Alam	O	-	-
+2	mo	O	-	-
+3	ba	O	-	-
+4	kung	O	-	-
+5	ano	O	-	-
+6	ang	O	-	-
+7	pinakamahaba	O	-	-
+8	-ng	O	-	-
+9	ilog	O	-	-
+10	sa	O	-	-
+11	Pilipinas	B-LOC	-	myron
+12	?	O	-	-
+
+# sent_id = batch-0002-0007
+# text = Ang Cagayan River ang pinakamahaba at pinakamalaki -ng ilog sa Pilipinas.
+1	Ang	O	-	-
+2	Cagayan	B-LOC	-	myron
+3	River	I-LOC	-	myron
+4	ang	O	-	-
+5	pinakamahaba	O	-	-
+6	at	O	-	-
+7	pinakamalaki	O	-	-
+8	-ng	O	-	-
+9	ilog	O	-	-
+10	sa	O	-	-
+11	Pilipinas	B-LOC	-	myron
+12	.	O	-	-
+
+# sent_id = batch-0002-0008
+# text = Apat na probinsya ang binabaybay nito.
+1	Apat	O	-	-
+2	na	O	-	-
+3	probinsya	O	-	-
+4	ang	O	-	-
+5	binabaybay	O	-	-
+6	nito	O	-	-
+7	.	O	-	-
+
+# sent_id = batch-0002-0009
+# text = Ito ang Nueva Vizcaya, Quirino, Isabela, at Cagayan.
+1	Ito	O	-	-
+2	ang	O	-	-
+3	Nueva	B-LOC	-	myron
+4	Vizcaya	I-LOC	-	myron
+5	,	O	-	-
+6	Quirino	B-LOC	-	myron
+7	,	O	-	-
+8	Isabela	B-LOC	-	myron
+9	,	O	-	-
+10	at	O	-	-
+11	Cagayan	B-LOC	-	myron
+12	.	O	-	-
+
+# sent_id = batch-0002-0010
+# text = Ang mga probinsya -ng ito ay matatagpuan sa Hilaga -ng Luzon.
+1	Ang	O	-	-
+2	mga	O	-	-
+3	probinsya	O	-	-
+4	-ng	O	-	-
+5	ito	O	-	-
+6	ay	O	-	-
+7	matatagpuan	O	-	-
+8	sa	O	-	-
+9	Hilaga	O	-	-
+10	-ng	O	-	-
+11	Luzon	B-LOC	-	myron
+12	.	O	-	-
+
+# sent_id = batch-0002-0011
+# text = Dinaraanan rin ng Cagayan River ang ilan -ng natitira -ng kakahuyan sa Pilipinas.
+1	Dinaraanan	O	-	-
+2	rin	O	-	-
+3	ng	O	-	-
+4	Cagayan	B-LOC	-	myron
+5	River	I-LOC	-	myron
+6	ang	O	-	-
+7	ilan	O	-	-
+8	-ng	O	-	-
+9	natitira	O	-	-
+10	-ng	O	-	-
+11	kakahuyan	O	-	-
+12	sa	O	-	-
+13	Pilipinas	B-LOC	-	myron
+14	.	O	-	-
+
+# sent_id = batch-0002-0012
+# text = Binubuhay ng tubig nito ang iba't iba -ng uri ng halaman at hayop.
+1	Binubuhay	O	-	-
+2	ng	O	-	-
+3	tubig	O	-	-
+4	nito	O	-	-
+5	ang	O	-	-
+6	iba	O	-	-
+7	't	O	-	-
+8	iba	O	-	-
+9	-ng	O	-	-
+10	uri	O	-	-
+11	ng	O	-	-
+12	halaman	O	-	-
+13	at	O	-	-
+14	hayop	O	-	-
+15	.	O	-	-
+
+# sent_id = batch-0002-0013
+# text = Kabilang sa umaasa sa ilog ang ilan -ng endangered species tulad ng Philippine Eagle.
+1	Kabilang	O	-	-
+2	sa	O	-	-
+3	umaasa	O	-	-
+4	sa	O	-	-
+5	ilog	O	-	-
+6	ang	O	-	-
+7	ilan	O	-	-
+8	-ng	O	-	-
+9	endangered	O	-	-
+10	species	O	-	-
+11	tulad	O	-	-
+12	ng	O	-	-
+13	Philippine	O	-	-
+14	Eagle	O	-	-
+15	.	O	-	-
+
+# sent_id = batch-0002-0014
+# text = Nakakita ka na ba ng talon?
+1	Nakakita	O	-	-
+2	ka	O	-	-
+3	na	O	-	-
+4	ba	O	-	-
+5	ng	O	-	-
+6	talon	O	-	-
+7	?	O	-	-
+
+# sent_id = batch-0002-0015
+# text = Dapat mo -ng makita ang Maria Cristina Falls sa lungsod ng Iligan sa Lanao del Norte.
+1	Dapat	O	-	-
+2	mo	O	-	-
+3	-ng	O	-	-
+4	makita	O	-	-
+5	ang	O	-	-
+6	Maria	B-LOC	-	myron
+7	Cristina	I-LOC	-	myron
+8	Falls	I-LOC	-	myron
+9	sa	O	-	-
+10	lungsod	O	-	-
+11	ng	O	-	-
+12	Iligan	B-LOC	-	myron
+13	sa	O	-	-
+14	Lanao	B-LOC	-	myron
+15	del	I-LOC	-	myron
+16	Norte	I-LOC	-	myron
+17	.	O	-	-
+
+# sent_id = batch-0002-0016
+# text = Ang Maria Cristina Falls ay kilala rin bilang kambal na talon.
+1	Ang	O	-	-
+2	Maria	B-LOC	-	myron
+3	Cristina	I-LOC	-	myron
+4	Falls	I-LOC	-	myron
+5	ay	O	-	-
+6	kilala	O	-	-
+7	rin	O	-	-
+8	bilang	O	-	-
+9	kambal	O	-	-
+10	na	O	-	-
+11	talon	O	-	-
+12	.	O	-	-
+
+# sent_id = batch-0002-0017
+# text = Dahil ito sa isa -ng malaki -ng bato sa taas ng talon, na humahati sa daloy ng tubig.
+1	Dahil	O	-	-
+2	ito	O	-	-
+3	sa	O	-	-
+4	isa	O	-	-
+5	-ng	O	-	-
+6	malaki	O	-	-
+7	-ng	O	-	-
+8	bato	O	-	-
+9	sa	O	-	-
+10	taas	O	-	-
+11	ng	O	-	-
+12	talon	O	-	-
+13	,	O	-	-
+14	na	O	-	-
+15	humahati	O	-	-
+16	sa	O	-	-
+17	daloy	O	-	-
+18	ng	O	-	-
+19	tubig	O	-	-
+20	.	O	-	-
+
+# sent_id = batch-0002-0018
+# text = Napakahalaga ng Maria Cristina Falls sa Mindanao.
+1	Napakahalaga	O	-	-
+2	ng	O	-	-
+3	Maria	B-LOC	-	myron
+4	Cristina	I-LOC	-	myron
+5	Falls	I-LOC	-	myron
+6	sa	O	-	-
+7	Mindanao	B-LOC	-	myron
+8	.	O	-	-
+
+# sent_id = batch-0002-0019
+# text = Ito ang pangunahin -ng pinagmumulan ng koryente sa rehiyon.
+1	Ito	O	-	-
+2	ang	O	-	-
+3	pangunahin	O	-	-
+4	-ng	O	-	-
+5	pinagmumulan	O	-	-
+6	ng	O	-	-
+7	koryente	O	-	-
+8	sa	O	-	-
+9	rehiyon	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0002-0020
+# text = Ang uri ng koryente -ng nililikha ng talon ay tinatawag na hydroelectric power.
+1	Ang	O	-	-
+2	uri	O	-	-
+3	ng	O	-	-
+4	koryente	O	-	-
+5	-ng	O	-	-
+6	nililikha	O	-	-
+7	ng	O	-	-
+8	talon	O	-	-
+9	ay	O	-	-
+10	tinatawag	O	-	-
+11	na	O	-	-
+12	hydroelectric	O	-	-
+13	power	O	-	-
+14	.	O	-	-
+
+# sent_id = batch-0002-0021
+# text = Alam mo ba kung ano ang bukal?
+1	Alam	O	-	-
+2	mo	O	-	-
+3	ba	O	-	-
+4	kung	O	-	-
+5	ano	O	-	-
+6	ang	O	-	-
+7	bukal	O	-	-
+8	?	O	-	-
+
+# sent_id = batch-0002-0022
+# text = Ito ang pinakamaliit na anyong-tubig.
+1	Ito	O	-	-
+2	ang	O	-	-
+3	pinakamaliit	O	-	-
+4	na	O	-	-
+5	anyong	O	-	-
+6	-	O	-	-
+7	tubig	O	-	-
+8	.	O	-	-
+
+# sent_id = batch-0002-0023
+# text = Mula sa ilalim ng lupa ang tubig ng bukal.
+1	Mula	O	-	-
+2	sa	O	-	-
+3	ilalim	O	-	-
+4	ng	O	-	-
+5	lupa	O	-	-
+6	ang	O	-	-
+7	tubig	O	-	-
+8	ng	O	-	-
+9	bukal	O	-	-
+10	.	O	-	-
+
+# sent_id = batch-0002-0024
+# text = May mga bukal na mainit ang tubig!
+1	May	O	-	-
+2	mga	O	-	-
+3	bukal	O	-	-
+4	na	O	-	-
+5	mainit	O	-	-
+6	ang	O	-	-
+7	tubig	O	-	-
+8	!	O	-	-
+
+# sent_id = batch-0002-0025
+# text = Karaniwan ito sa mga bukal na malapit sa maiinit na bato sa ilalim ng lupa.
+1	Karaniwan	O	-	-
+2	ito	O	-	-
+3	sa	O	-	-
+4	mga	O	-	-
+5	bukal	O	-	-
+6	na	O	-	-
+7	malapit	O	-	-
+8	sa	O	-	-
+9	maiinit	O	-	-
+10	na	O	-	-
+11	bato	O	-	-
+12	sa	O	-	-
+13	ilalim	O	-	-
+14	ng	O	-	-
+15	lupa	O	-	-
+16	.	O	-	-
+
+# sent_id = batch-0002-0026
+# text = Isa sa kilala -ng bukal ay ang Tiwi Hot Springs sa Bikol.
+1	Isa	O	-	-
+2	sa	O	-	-
+3	kilala	O	-	-
+4	-ng	O	-	-
+5	bukal	O	-	-
+6	ay	O	-	-
+7	ang	O	-	-
+8	Tiwi	B-LOC	-	myron
+9	Hot	I-LOC	-	myron
+10	Springs	I-LOC	-	myron
+11	sa	O	-	-
+12	Bikol	B-LOC	-	myron
+13	.	O	-	-
+
+# sent_id = batch-0002-0027
+# text = Matatagpuan ito malapit sa Bulkang Mayon.
+1	Matatagpuan	O	-	-
+2	ito	O	-	-
+3	malapit	O	-	-
+4	sa	O	-	-
+5	Bulkang	B-LOC	-	myron
+6	Mayon	I-LOC	-	myron
+7	.	O	-	-
+
+# sent_id = batch-0002-0028
+# text = Marami ang pumupunta sa Tiwi Hot Springs dahil nakagagaling daw ng sakit ng kalamnan ang maglublob sa mainit nito -ng tubig.
+1	Marami	O	-	-
+2	ang	O	-	-
+3	pumupunta	O	-	-
+4	sa	O	-	-
+5	Tiwi	B-LOC	-	myron
+6	Hot	I-LOC	-	myron
+7	Springs	I-LOC	-	myron
+8	dahil	O	-	-
+9	nakagagaling	O	-	-
+10	daw	O	-	-
+11	ng	O	-	-
+12	sakit	O	-	-
+13	ng	O	-	-
+14	kalamnan	O	-	-
+15	ang	O	-	-
+16	maglublob	O	-	-
+17	sa	O	-	-
+18	mainit	O	-	-
+19	nito	O	-	-
+20	-ng	O	-	-
+21	tubig	O	-	-
+22	.	O	-	-
+
+# sent_id = batch-0002-0029
+# text = Ang paglabas ng mainit na tubig na ito mula sa lupa ay pinagmumulan din ng koryente.
+1	Ang	O	-	-
+2	paglabas	O	-	-
+3	ng	O	-	-
+4	mainit	O	-	-
+5	na	O	-	-
+6	tubig	O	-	-
+7	na	O	-	-
+8	ito	O	-	-
+9	mula	O	-	-
+10	sa	O	-	-
+11	lupa	O	-	-
+12	ay	O	-	-
+13	pinagmumulan	O	-	-
+14	din	O	-	-
+15	ng	O	-	-
+16	koryente	O	-	-
+17	.	O	-	-
+
+# sent_id = batch-0002-0030
+# text = Geothermal power ang tawag sa uri ng koryente -ng ito.
+1	Geothermal	O	-	-
+2	power	O	-	-
+3	ang	O	-	-
+4	tawag	O	-	-
+5	sa	O	-	-
+6	uri	O	-	-
+7	ng	O	-	-
+8	koryente	O	-	-
+9	-ng	O	-	-
+10	ito	O	-	-
+11	.	O	-	-
+
+# newdoc id = batch-0003
+# sent_id = batch-0003-0001
+# text = Ang koryente -ng ito ay hinango sa init mula sa ilalim ng lupa.
+1	Ang	O	-	-
+2	koryente	O	-	-
+3	-ng	O	-	-
+4	ito	O	-	-
+5	ay	O	-	-
+6	hinango	O	-	-
+7	sa	O	-	-
+8	init	O	-	-
+9	mula	O	-	-
+10	sa	O	-	-
+11	ilalim	O	-	-
+12	ng	O	-	-
+13	lupa	O	-	-
+14	.	O	-	-
+
+# sent_id = batch-0003-0002
+# text = Pambihira talaga ang mga anyong-tubig sa Pilipinas!
+1	Pambihira	O	-	-
+2	talaga	O	-	-
+3	ang	O	-	-
+4	mga	O	-	-
+5	anyong	O	-	-
+6	-	O	-	-
+7	tubig	O	-	-
+8	sa	O	-	-
+9	Pilipinas	B-LOC	-	myron
+10	!	O	-	-
+
+# sent_id = batch-0003-0003
+# text = Kapaki-pakinabang pa ang bawat isa.
+1	Kapaki-pakinabang	O	-	-
+2	pa	O	-	-
+3	ang	O	-	-
+4	bawat	O	-	-
+5	isa	O	-	-
+6	.	O	-	-
+
+# sent_id = batch-0003-0004
+# text = Ano -ng mga anyong tubig ang matatagpuan sa inyo -ng lugar?
+1	Ano	O	-	-
+2	-ng	O	-	-
+3	mga	O	-	-
+4	anyong	O	-	-
+5	tubig	O	-	-
+6	ang	O	-	-
+7	matatagpuan	O	-	-
+8	sa	O	-	-
+9	inyo	O	-	-
+10	-ng	O	-	-
+11	lugar	O	-	-
+12	?	O	-	-
+
