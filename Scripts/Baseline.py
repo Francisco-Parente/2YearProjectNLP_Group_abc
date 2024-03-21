@@ -10,15 +10,15 @@ acessed 21/03/2024.
 
 import numpy as np
 import torch
-import torchcrf
+import TorchCRF
 from torch import nn
 
 class baselineModel(torch.nn.Module):
 
     def __init__(self, nWords, tags, dimEmbed, dimHidden):
         super().__init__()
-		self.dimEmbed = dimEmbed
-        self.dimHidden = dimHidden
+        self.dimEmbed = dimEmbed
+        self.dimHidden = dimHiddenconda 
         self.vocabSize = nWords
         self.tagSetSize = len(tags)
         self.tagSet = tags
@@ -27,7 +27,7 @@ class baselineModel(torch.nn.Module):
         self.LSTM = nn.LSTM(dimEmbed, dimHidden, batch_first = True, bidirectional = True)
         self.linear = nn.Linear(dimHidden * 2, self.tagSetSize) 
         
-        self.CRF = torchcrf.CRF(self.tagSetSize, batch_first = True)
+        self.CRF = TorchCRF.CRF(self.tagSetSize, batch_first = True)
 
 
         
