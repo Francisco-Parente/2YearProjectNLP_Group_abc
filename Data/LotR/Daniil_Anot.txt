@@ -1,10 +1,10 @@
 When
 Mr.
-Bilbo
-Baggins
+Bilbo   B-PER
+Baggins I-PER
 of
-Bag
-End
+Bag B-LOC
+End I-LOC
 announced
 that
 he
@@ -30,9 +30,9 @@ talk
 and
 excitement
 in
-Hobbiton
+Hobbiton    B-LOC
 .
-Bilbo
+Bilbo   B-PER
 was
 very
 rich
@@ -47,7 +47,7 @@ the
 wonder
 of
 the
-Shire
+Shire   B-LOC
 for
 sixty
 years
@@ -92,10 +92,10 @@ say
 ,
 that
 the
-Hill
+Hill    B-LOC
 at
-Bag
-End
+Bag B-LOC
+End I-LOC
 was
 full
 of
@@ -136,7 +136,7 @@ little
 effect
 on
 Mr.
-Baggins
+Baggins B-PER
 .
 At
 ninety
@@ -243,7 +243,7 @@ come
 and
 as
 Mr.
-Baggins
+Baggins B-PER
 was
 generous
 with
@@ -280,8 +280,8 @@ of
 course
 ,
 the
-Sackville
-Bagginses
+Sackville   B-PER
+Bagginses   I-PER
 )
 ,
 and
@@ -292,7 +292,7 @@ devoted
 admirers
 among
 the
-hobbits
+hobbits B-OTH
 of
 poor
 and
@@ -323,22 +323,22 @@ of
 these
 ,
 and
-Bilbo’s
+Bilbo’s B-PER
 favourite
 ,
 was
 young
-Frodo
-Baggins
+Frodo   B-PER
+Baggins I-PER
 .
 When
-Bilbo
+Bilbo   B-PER
 was
 ninety
 nine
 he
 adopted
-Frodo
+Frodo   B-PER
 as
 his
 heir
@@ -349,23 +349,23 @@ him
 to
 live
 at
-Bag
-End
+Bag B-LOC
+End I-LOC
 ;
 and
 the
 hopes
 of
 the
-Sackville
-Bagginses
+Sackville   B-PER
+Bagginses   I-PER
 were
 finally
 dashed
 .
-Bilbo
+Bilbo   B-PER
 and
-Frodo
+Frodo   B-PER
 happened
 to
 have
@@ -384,13 +384,13 @@ and
 live
 here
 ,
-Frodo
+Frodo   B-PER
 my
 lad
 ,
 ’
 said
-Bilbo
+Bilbo   B-PER
 one
 day
 ;
@@ -409,7 +409,7 @@ together
 At
 that
 time
-Frodo
+Frodo   B-PER
 was
 still
 in
@@ -418,7 +418,7 @@ tweens
 ,
 as
 the
-hobbits
+hobbits B-OTH
 called
 the
 irresponsible
@@ -441,7 +441,7 @@ passed
 Each
 year
 the
-Bagginses
+Bagginses   B-PER
 had
 given
 very
@@ -450,8 +450,8 @@ combined
 birthday
 parties
 at
-Bag
-End
+Bag B-LOC
+End I-LOC
 ;
 but
 now
@@ -469,7 +469,7 @@ for
 that
 autumn
 .
-Bilbo
+Bilbo   B-PER
 was
 going
 to
@@ -492,11 +492,11 @@ spectable
 age
 for
 a
-hobbit
+hobbit  B-PER
 (
 the
-Old
-Took
+Old B-PER
+Took    I-PER
 himself
 had
 only
@@ -505,7 +505,7 @@ reached
 )
 ;
 and
-Frodo
+Frodo   B-PER
 was
 going
 to
@@ -532,9 +532,9 @@ began
 to
 wag
 in
-Hobbiton
+Hobbiton    B-LOC
 and
-Bywater
+Bywater B-LOC
 ;
 and
 rumour
@@ -546,7 +546,7 @@ travelled
 all
 over
 the
-Shire
+Shire   B-LOC
 .
 The
 history
@@ -554,8 +554,8 @@ and
 character
 of
 Mr.
-Bilbo
-Baggins
+Bilbo   B-PER
+Baggins I-PER
 became
 once
 again
@@ -586,29 +586,29 @@ attentive
 audience
 than
 old
-Flam
-Gamgee
+Flam    B-PER
+Gamgee  I-PER
 ,
 commonly
 known
 as
 the
-Gaffer
+Gaffer  B-PER
 .
-Fie
+Fie B-PER
 held
 forth
 at
 The
-Ivy
-Bush
+Ivy B-LOC
+Bush    B-LOC
 ,
 a
 small
 inn
 on
 the
-Bywater
+Bywater B-LOC
 road
 ;
 and
@@ -625,8 +625,8 @@ tended
 the
 garden
 at
-Bag
-End
+Bag B-LOC
+End I-LOC
 for
 forty
 years
@@ -635,7 +635,7 @@ and
 had
 helped
 old
-Holman
+Holman  B-PER
 in
 the
 same
@@ -668,8 +668,8 @@ young
 est
 son
 ,
-Sam
-Gamgee
+Sam B-PER
+Gamgee  I-PER
 .
 Both
 father
@@ -681,26 +681,26 @@ very
 friendly
 terms
 with
-Bilbo
+Bilbo   B-PER
 and
-Frodo
+Frodo   B-PER
 .
 They
 lived
 on
 the
-Hill
+Hill    B-LOC
 itself
 ,
 in
-Number
-3
-Bagshot
-Row
+Number  B-LOC
+3   I-LOC
+Bagshot I-LOC
+Row I-LOC
 just
 below
-Bag
-End
+Bag B-LOC
+End I-LOC
 .
 A
 very
@@ -710,7 +710,7 @@ spoken
 gentlehobbit
 is
 Mr.
-Bilbo
+Bilbo   B-PER
 ,
 as
 I’ve
@@ -719,7 +719,7 @@ said
 ,
 ’
 the
-Gaffer
+Gaffer  B-PER
 declared
 .
 With
@@ -727,7 +727,7 @@ perfect
 truth
 :
 for
-Bilbo
+Bilbo   B-PER
 was
 very
 polite
@@ -737,7 +737,7 @@ him
 calling
 him
 Master
-Hamfast’
+Hamfast’    B-PER
 ,
 and
 consulting
@@ -758,7 +758,7 @@ especially
 potatoes
 ,
 the
-Gaffer
+Gaffer  B-PER
 was
 recognized
 as
@@ -780,7 +780,7 @@ But
 what
 about
 this
-Frodo
+Frodo   B-PER
 that
 lives
 with
@@ -788,12 +788,12 @@ him
 ?
 ’
 asked
-Old
-Noakes
+Old B-PER
+Noakes  I-PER
 of
-Bywater
+Bywater B-LOC
 .
-Baggins
+Baggins B-PER
 is
 his
 name
@@ -804,7 +804,7 @@ more
 than
 half
 a
-Brandybuck
+Brandybuck  B-PER
 ,
 they
 say
@@ -814,9 +814,9 @@ beats
 me
 why
 any
-Baggins
+Baggins B-PER
 of
-Hobbiton
+Hobbiton    B-LOC
 should
 go
 looking
@@ -826,7 +826,7 @@ wife
 away
 there
 in
-Buckland
+Buckland    B-LOC
 ,
 where
 folks
@@ -844,11 +844,11 @@ queer
 ’
 put
 in
-Daddy
-Twofoot
+Daddy   B-PER
+Twofoot I-PER
 (
 the
-Gaffer’s
+Gaffer’s B-PER
 next
 door
 neighbour
@@ -863,15 +863,15 @@ wrong
 side
 of
 the
-Brandywine
-River
+Brandywine  B-LOC
+River   I-LOC
 ,
 and
 right
 agin
 the
-Old
-Forest
+Old B-LOC
+Forest  I-LOC
 .
 That’s
 a
@@ -895,20 +895,20 @@ Dad
 ’
 said
 the
-Gaffer
+Gaffer  B-PER
 .
 Not
 that
 the
-Brandy
-bucks
+Brandy  B-PER
+bucks   I-PER
 of
-Buckland
+Buckland    B-LOC
 live
 in
 the
-Old
-Forest
+Old B-LOC
+Forest  I-LOC
 ;
 but
 they’re
@@ -951,7 +951,7 @@ it
 may
 ,
 Mr.
-Frodo
+Frodo   B-PER
 is
 as
 nice
@@ -969,7 +969,7 @@ Very
 much
 like
 Mr.
-Bilbo
+Bilbo   B-PER
 ,
 and
 in
@@ -983,7 +983,7 @@ his
 father
 was
 a
-Baggins
+Baggins B-PER
 .
 A
 decent
@@ -991,8 +991,8 @@ respectable
 hobbit
 was
 Mr.
-Drogo
-Baggins
+Drogo   B-PER
+Baggins I-PER
 ;
 there
 was
@@ -1056,26 +1056,26 @@ say
 ’
 said
 the
-Gaffer
+Gaffer  B-PER
 .
 You
 see
 :
 Mr.
-Drogo
+Drogo   B-PER
 ,
 he
 married
 poor
 Miss
-Primula
-Brandybuck
+Primula B-PER
+Brandybuck  I-PER
 .
 She
 was
 our
 Mr.
-Bilbo’s
+Bilbo’s B-PER
 first
 cousin
 on
@@ -1090,14 +1090,14 @@ the
 youngest
 of
 the
-Old
-Took’s
+Old B-PER
+Took’s  I-PER
 daughters
 )
 ;
 and
 Mr.
-Drogo
+Drogo   B-PER
 was
 his
 second
@@ -1105,7 +1105,7 @@ cousin
 .
 So
 Mr.
-Frodo
+Frodo   B-PER
 is
 his
 first
@@ -1130,12 +1130,12 @@ me
 .
 And
 Mr.
-Drogo
+Drogo   B-PER
 was
 staying
 at
-Brandy
-Hall
+Brandy  B-LOC
+Hall    I-LOC
 with
 his
 father
@@ -1144,7 +1144,7 @@ law
 ,
 old
 Master
-Gorbadoc
+Gorbadoc    B-PER
 ,
 as
 he
@@ -1163,7 +1163,7 @@ vittles
 ,
 and
 old
-Gorbadoc
+Gorbadoc    B-PER
 keeping
 a
 mighty
@@ -1178,8 +1178,8 @@ out
 boating
 on
 the
-Brandywine
-River
+Brandywine  B-LOC
+River   I-LOC
 ;
 and
 he
@@ -1192,7 +1192,7 @@ drownded
 and
 poor
 Mr.
-Frodo
+Frodo   B-PER
 only
 a
 child
@@ -1215,13 +1215,13 @@ moonlight
 ,
 ’
 said
-Old
-Noakes
+Old B-PER
+Noakes  I-PER
 ;
 and
 it
 was
-Drogo’s
+Drogo’s B-PER
 weight
 as
 sunk
@@ -1246,10 +1246,10 @@ him
 ,
 ’
 said
-Sandyman
+Sandyman    B-PER
 ,
 the
-Hobbiton
+Hobbiton    B-LOC
 miller
 .
 You
@@ -1260,12 +1260,12 @@ all
 you
 hear
 ,
-Sandyman
+Sandyman    B-PER
 ,
 ’
 said
 the
-Gaffer
+Gaffer  B-PER
 ,
 who
 did
@@ -1312,7 +1312,7 @@ there
 was
 this
 Mr.
-Frodo
+Frodo   B-PER
 left
 an
 orphan
@@ -1327,15 +1327,15 @@ say
 among
 those
 queer
-Bucklanders
+Bucklanders B-PER
 ,
 being
 brought
 up
 anyhow
 in
-Brandy
-Hall
+Brandy  B-PER
+Hall    I-PER
 .
 A
 regular
@@ -1346,8 +1346,8 @@ all
 accounts
 .
 Old
-Master
-Gorbadoc
+Master  B-PER
+Gorbadoc    I-PER
 never
 had
 fewer
@@ -1362,7 +1362,7 @@ the
 place
 .
 Mr.
-Bilbo
+Bilbo   B-PER
 never
 did
 a
@@ -1391,8 +1391,8 @@ nasty
 knock
 for
 those
-Sackville
-Bagginses
+Sackville   B-PER
+Bagginses   I-PER
 .
 They
 thought
@@ -1401,8 +1401,8 @@ were
 going
 to
 get
-Bag
-End
+Bag B-LOC
+End I-LOC
 ,
 that
 time
@@ -1462,16 +1462,16 @@ out
 proper
 .
 The
-Sackville
-Bagginses
+Sackville   B-PER
+Bagginses   I-PER
 won’t
 never
 see
 the
 inside
 of
-Bag
-End
+Bag B-LOC
+End I-LOC
 now
 ,
 or
@@ -1508,8 +1508,8 @@ visitor
 on
 business
 from
-Michel
-Delving
+Michel  B-LOC
+Delving I-LOC
 in
 the
 Westfarthing
@@ -1554,7 +1554,7 @@ to
 ’
 answered
 the
-Gaffer
+Gaffer  B-PER
 .
 I
 know
@@ -1563,7 +1563,7 @@ about
 jools
 .
 Mr.
-Bilbo
+Bilbo   B-PER
 is
 free
 with
@@ -1589,7 +1589,7 @@ making
 I
 saw
 Mr.
-Bilbo
+Bilbo   B-PER
 when
 he
 came
@@ -1615,7 +1615,7 @@ come
 prentice
 to
 old
-Holman
+Holman  B-PER
 (
 him
 being
@@ -1630,8 +1630,8 @@ had
 me
 up
 at
-Bag
-End
+Bag B-LOC
+End B-LOC
 helping
 him
 to
@@ -1660,11 +1660,11 @@ of
 it
 all
 Mr.
-Bilbo
+Bilbo   B-PER
 comes
 up
-the
-Hill
+the B-LOC
+Hill    I-LOC
 with
 a
 pony
@@ -1729,8 +1729,8 @@ in
 and
 out
 of
-Bag
-End
+Bag B-LOC
+End I-LOC
 .
 Crazy
 about
@@ -1749,11 +1749,11 @@ listens
 to
 all
 Mr.
-Bilbo’s
+Bilbo’s B-PER
 tales
 .
 Mr.
-Bilbo
+Bilbo   B-PER
 has
 learned
 him
@@ -1776,9 +1776,9 @@ come
 of
 it
 .
-Elves
+Elves   B-OTH
 and
-Dragons
+Dragons B-OTH
 !
 I
 says
@@ -1845,7 +1845,7 @@ miller
 .
 But
 the
-Gaffer
+Gaffer  B-PER
 did
 not
 convince
@@ -1855,7 +1855,7 @@ audience
 The
 legend
 of
-Bilbo’s
+Bilbo’s B-PER
 wealth
 was
 now
@@ -1870,7 +1870,7 @@ the
 younger
 generation
 of
-hobbits
+hobbits B-OTH
 .
 Ah
 ,
@@ -1924,7 +1924,7 @@ old
 wandering
 conjuror
 ,
-Gandalf
+Gandalf B-PER
 ,
 and
 all
@@ -1936,11 +1936,11 @@ what
 you
 like
 ,
-Gaffer
+Gaffer  B-PER
 ,
 but
-Bag
-End’s
+Bag B-LOC
+End’s   I-LOC
 a
 queer
 place
@@ -1974,12 +1974,12 @@ of
 boating
 ,
 Mr.
-Sandyman
+Sandyman    B-PER
 ,
 ’
 retorted
 the
-Gaffer
+Gaffer  B-PER
 ,
 disliking
 the
@@ -2039,11 +2039,11 @@ do
 things
 proper
 at
-Bag
-End
+Bag B-LOC
+End I-LOC
 .
 Our
-Sam
+Sam B-PER
 says
 that
 everyone’s
@@ -2102,7 +2102,7 @@ started
 by
 the
 knowledgeable
-Sam
+Sam B-PER
 )
 was
 spread
@@ -2128,7 +2128,7 @@ been
 seen
 in
 the
-Shire
+Shire   B-LOC
 for
 nigh
 on
@@ -2139,8 +2139,8 @@ not
 indeed
 since
 the
-Old
-Took
+Old B-PER
+Took    I-PER
 died
 .
 Days
@@ -2162,22 +2162,21 @@ looking
 packages
 rolled
 into
-Hobbi
-ton
+Hobbiton    B-LOC
 one
 evening
 and
 toiled
 up
-the
-Hill
+the B-LOC
+Hill    I-LOC
 to
-Bag
-End
+Bag B-LOC
+End I-LOC
 .
 The
 startled
-hobbits
+hobbits B-OTH
 peered
 out
 of
@@ -2199,7 +2198,7 @@ singing
 strange
 songs
 :
-dwarves
+dwarves B-OTH
 with
 long
 beards
@@ -2213,6 +2212,6 @@ of
 them
 remained
 at
-Bag
-End
+Bag B-LOC
+End I-LOC
 .
