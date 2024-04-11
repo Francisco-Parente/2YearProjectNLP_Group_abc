@@ -90,8 +90,8 @@ for i, (sentence, labels) in enumerate(zip(all_labels[0][0], all_labels[0][1])):
             labels4.append(" ".join(all_labels[3][1][i]))
 
             print("Sentence: ", differance)
-            print("Abel:      ",labels1)
-            print("Daniil:    ",labels2)
-            print("Tobi:      ",labels3)
-            print("Francisco: ",labels4,"\n")
+            print("Abel:     ",labels1)
+            print("Daniil:   ",labels2)
+            print("Tobi:     ",labels3)
+            print("Francisco:",labels4,"\n")
             break
