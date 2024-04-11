@@ -2162,12 +2162,7 @@ looking
 packages
 rolled
 into
-<<<<<<< HEAD
-Hobbi   B-LOC
-ton I-LOC
-=======
-Hobbiton
->>>>>>> ec17468b3d49ccf6b1ced068013f1d74e3b4bd63
+Hobbiton    B-LOC
 one
 evening
 and

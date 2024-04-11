@@ -71,13 +71,27 @@ for file_name in file_names:
     print("Labels:", labels)
     print()'''
 
-
 # Iterate over the sentences and labels in list1
 for i, (sentence, labels) in enumerate(zip(all_labels[0][0], all_labels[0][1])):
     # Check corresponding labels in other lists
     for j, other_list in enumerate([all_labels[1], all_labels[2], all_labels[2]]):
         other_labels = other_list[1][i]
         # Compare labels
+        differance = []
+        labels1 = []
+        labels2 = []
+        labels3 = []
+        labels4 = []
         if labels != other_labels:
-            # Print the word, its position, and the differing labels
-            print(f"Word: {sentence}, Position: {i}, Label in list1: {labels}, Label in list{j+2}: {other_labels}")
+            differance.append(" ".join(sentence))
+            labels1.append(" ".join(labels))
+            labels2.append(" ".join(all_labels[1][1][i]))
+            labels3.append(" ".join(all_labels[2][1][i]))
+            labels4.append(" ".join(all_labels[3][1][i]))
+
+            print("Sentence: ", differance)
+            print("Abel:      ",labels1)
+            print("Daniil:    ",labels2)
+            print("Tobi:      ",labels3)
+            print("Francisco: ",labels4,"\n")
+            break
