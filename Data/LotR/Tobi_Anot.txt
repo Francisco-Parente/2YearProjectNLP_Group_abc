@@ -1,4 +1,4 @@
-When  
+When 
 Mr. 
 Bilbo B-PER
 Baggins I-PER
@@ -595,11 +595,11 @@ as
 the
 Gaffer B-PER
 .
-Fie
+Fie B-PER
 held
 forth
 at
-The
+The 
 Ivy B-LOC
 Bush I-LOC
 ,
@@ -707,7 +707,7 @@ very
 nice
 well
 spoken
-gentlehobbit
+gentlehobbit B-OTH
 is
 Mr.
 Bilbo B-PER
@@ -848,7 +848,7 @@ Daddy B-PER
 Twofoot I-PER
 (
 the
-Gaffer’s
+Gaffer’s B-OER
 next
 door
 neighbour
@@ -1717,7 +1717,7 @@ tunnels
 But
 my
 lad
-Sam
+Sam B-PER
 will
 know
 more
@@ -1776,9 +1776,9 @@ come
 of
 it
 .
-Elves
+Elves B-OTH
 and
-Dragons
+Dragons B-OTH
 !
 I
 says
@@ -2198,7 +2198,7 @@ singing
 strange
 songs
 :
-dwarves
+dwarves B-OTH
 with
 long
 beards
