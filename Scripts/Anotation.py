@@ -27,7 +27,7 @@ def read_file_and_split(filename):
     annotated = []
     sentences = []
     labels = []
-    with open(filename, 'r') as file:
+    with open(filename, 'r', encoding='utf-8') as file:
         sentence = []
         label = []
         for line in file:
