@@ -4,7 +4,7 @@ import re
 ### Running this Takes LOTR text and makes it into txt with word for line
 def LOTR_word_per_line():
     # Open the input file
-    with open("LOTR_as_txt.sty", "r", encoding="utf-8") as file:
+    with open("Scripts\LOTR_as_txt.sty", "r", encoding="utf-8") as file:
         content = file.read()
 
     # Remove chapter headings and names
@@ -14,12 +14,12 @@ def LOTR_word_per_line():
     tokens = re.findall(r"[mM]r.|[\w’]+|[.,!?;():\[\]]", cleaned_content)
 
     # Write each token to a new text file
-    with open("LOTR_tokens.txt", "w", encoding="utf-8") as output_file:
+    with open("LOTR_tokens2.txt", "w", encoding="utf-8") as output_file:
         for token in tokens:
             output_file.write(token + "\n")
     return 0
 
-#LOTR_word_per_line()
+LOTR_word_per_line()
 
 
 # Function to read the file and split into sentences
@@ -72,7 +72,7 @@ for file_name in file_names:
     print()'''
 
 # Iterate over the sentences and labels in list1
-for i, (sentence, labels) in enumerate(zip(all_labels[0][0], all_labels[0][1])):
+"""for i, (sentence, labels) in enumerate(zip(all_labels[0][0], all_labels[0][1])):
     # Check corresponding labels in other lists
     for j, other_list in enumerate([all_labels[1], all_labels[2], all_labels[2]]):
         other_labels = other_list[1][i]
@@ -94,4 +94,4 @@ for i, (sentence, labels) in enumerate(zip(all_labels[0][0], all_labels[0][1])):
             print("Daniil:   ",labels2)
             print("Tobi:     ",labels3)
             print("Francisco:",labels4,"\n")
-            break
+            break"""
