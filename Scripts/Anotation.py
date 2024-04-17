@@ -56,7 +56,7 @@ def read_file_and_split(filename):
     return annotated
 
 # Read all files and split them into sentences
-file_names = ["Data\LotR\Abel_Anot.txt", "Data\LotR\Daniil_Anot.txt", "Data\LotR\Tobi_Anot.txt", "Data\LotR\Francisco_Anot.txt"]
+file_names = ["Data\LotR\2ndLabeling\Abel_Anot2.txt", "Data\LotR\2ndLabeling\Daniil_Anot2.txt", "Data\LotR\2ndLabeling\Tobi_Anot2.txt", "Data\LotR\2ndLabeling\Francisco_Anot2.txt"]
 all_labels = []
 
 for file_name in file_names:
