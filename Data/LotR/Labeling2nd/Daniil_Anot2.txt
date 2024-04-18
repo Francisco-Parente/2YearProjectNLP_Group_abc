@@ -12,14 +12,14 @@ cart
 came
 in
 through
-Bywater
+Bywater B-LOC
 from
 the
 direction
 of
-Brandy
-wine
-Bridge
+Brandy  B-LOC
+wine    I-LOC
+Bridge  I-LOC
 in
 broad
 daylight
@@ -79,7 +79,7 @@ the
 cart
 all
 through
-Hobbiton
+Hobbiton    B-LOC
 and
 right
 up
@@ -99,7 +99,7 @@ rightly
 guessed
 .
 At
-Bilbo’s
+Bilbo’s B-PER
 front
 door
 the
@@ -137,7 +137,7 @@ JJ
 !
 That
 was
-Gandalf’s
+Gandalf’s   B-PER
 mark
 ,
 of
@@ -148,7 +148,7 @@ the
 old
 man
 was
-Gandalf
+Gandalf B-PER
 the
 Wizard
 ,
@@ -156,7 +156,7 @@ whose
 fame
 in
 the
-Shire
+Shire   B-LOC
 was
 due
 mainly
@@ -183,7 +183,7 @@ dangerous
 ,
 but
 the
-Shire
+Shire   B-LOC
 folk
 knew
 nothing
@@ -236,7 +236,7 @@ he
 only
 appeared
 in
-Hobbiton
+Hobbiton    B-LOC
 occasionally
 and
 never
@@ -276,7 +276,7 @@ man
 ,
 helped
 by
-Bilbo
+Bilbo   B-PER
 and
 some
 dwarves
@@ -285,7 +285,7 @@ had
 finished
 unloading
 ,
-Bilbo
+Bilbo   B-PER
 gave
 a
 few
@@ -316,7 +316,7 @@ now
 !
 ’
 said
-Gandalf
+Gandalf B-PER
 .
 You
 will
@@ -333,7 +333,7 @@ he
 disappeared
 inside
 with
-Bilbo
+Bilbo   B-PER
 ,
 and
 the
@@ -371,12 +371,12 @@ never
 come
 .
 Inside
-Bag
-End
+Bag B-LOC
+End I-LOC
 ,
-Bilbo
+Bilbo   B-PER
 and
-Gandalf
+Gandalf   B-PER
 were
 sitting
 at
@@ -439,13 +439,13 @@ looks
 !
 ’
 said
-Gandalf
+Gandalf   B-PER
 .
 Yes
 ,
 ’
 said
-Bilbo
+Bilbo   B-PER
 .
 I
 am
@@ -461,7 +461,7 @@ all
 the
 dear
 old
-Shire
+Shire   B-LOC
 ;
 but
 I
@@ -571,7 +571,7 @@ wonder
 ?
 ’
 said
-Gandalf
+Gandalf   B-PER
 ,
 shaking
 his
@@ -583,7 +583,7 @@ see
 ,
 ’
 said
-Bilbo
+Bilbo   B-PER
 .
 The
 next
@@ -593,7 +593,7 @@ carts
 rolled
 up
 the
-Hill
+Hill    B-LOC
 ,
 and
 still
@@ -620,8 +620,8 @@ to
 pour
 out
 of
-Bag
-End
+Bag B-LOC
+End I-LOC
 for
 every
 kind
@@ -637,9 +637,9 @@ could
 be
 obtained
 in
-Hobbiton
+Hobbiton    B-LOC
 or
-Bywater
+Bywater B-LOC
 or
 anywhere
 in
@@ -684,7 +684,7 @@ out
 ,
 and
 the
-Hobbiton
+Hobbiton    B-LOC
 post
 office
 was
@@ -692,7 +692,7 @@ blocked
 ,
 and
 the
-Bywater
+Bywater B-LOC
 post
 office
 was
@@ -717,7 +717,7 @@ them
 going
 up
 the
-Hill
+Hill    B-LOC
 ,
 carrying
 hundreds
@@ -740,8 +740,8 @@ on
 the
 gate
 at
-Bag
-End
+Bag B-LOC
+End I-LOC
 :
 no
 admit
@@ -767,7 +767,7 @@ seldom
 allowed
 inside
 .
-Bilbo
+Bilbo   B-PER
 was
 busy
 :
@@ -795,7 +795,7 @@ From
 the
 time
 of
-Gandalf
+Gandalf   B-PER
 ’s
 arrival
 he
@@ -815,11 +815,11 @@ the
 large
 field
 ,
-south
-of
-Bilbo’s
-front
-door
+south   B-LOC
+of  I-LOC
+Bilbo’s   I-LOC?B-PER
+front   I-LOC
+door    I-LOC
 ,
 covered
 with
@@ -861,8 +861,8 @@ three
 hobbit
 families
 of
-Bagshot
-Row
+Bagshot B-LOC
+Row I-LOC
 ,
 adjoining
 the
@@ -875,9 +875,9 @@ and
 generally
 envied
 .
-Old
-Gaffer
-Gamgee
+Old 
+Gaffer  B-PER
+Gamgee  I-PER
 stopped
 even
 pretending
@@ -992,8 +992,8 @@ that
 were
 quartered
 at
-Bag
-End
+Bag   B-LOC
+End I-LOC
 .
 Excitement
 rose
@@ -1048,8 +1048,8 @@ the
 fun
 began
 .
-Bilbo
-Baggins
+Bilbo   B-PER
+Baggins I-PER
 called
 it
 a
@@ -1103,7 +1103,7 @@ other
 parts
 of
 the
-Shire
+Shire   B-LOC
 were
 also
 asked
@@ -1119,7 +1119,7 @@ outside
 the
 borders
 .
-Bilbo
+Bilbo   B-PER
 met
 the
 guests
@@ -1202,9 +1202,9 @@ system
 .
 Actually
 in
-Hobbiton
+Hobbiton    B-LOC
 and
-Bywater
+Bywater B-LOC
 every
 day
 in
@@ -1309,10 +1309,10 @@ the
 way
 from
 the
-Mountain
+Mountain    B-LOC
 and
 from
-Dale
+Dale    B-LOC
 ,
 and
 were
@@ -1422,7 +1422,7 @@ The
 fireworks
 were
 by
-Gandalf
+Gandalf   B-PER
 :
 they
 were
@@ -1495,7 +1495,7 @@ superb
 The
 art
 of
-Gandalf
+Gandalf   B-PER
 improved
 with
 age
@@ -1658,7 +1658,7 @@ surprise
 in
 honour
 of
-Bilbo
+Bilbo   B-PER
 ,
 and
 it
@@ -1668,7 +1668,7 @@ hobbits
 exceedingly
 ,
 as
-Gandalf
+Gandalf   B-PER
 intended
 .
 The
@@ -1778,7 +1778,7 @@ somersault
 and
 burst
 over
-Bywater
+Bywater B-LOC
 with
 a
 deafening
@@ -1793,7 +1793,7 @@ supper
 !
 ’
 said
-Bilbo
+Bilbo   B-PER
 .
 The
 pain
@@ -1889,9 +1889,9 @@ the
 families
 to
 which
-Bilbo
+Bilbo   B-PER
 and
-Frodo
+Frodo   B-PER
 were
 related
 ,
@@ -1907,7 +1907,7 @@ friends
 (
 such
 as
-Gandalf
+Gandalf   B-PER
 )
 .
 Many
@@ -1964,38 +1964,38 @@ provender
 There
 were
 many
-Bagginses
+Bagginses   B-PER
 and
-Boffins
+Boffins   B-PER
 ,
 and
 also
 many
-Tooks
+Tooks   B-PER
 and
-Brandybucks
+Brandybucks   B-PER
 ;
 there
 were
 various
-Grubbs
+Grubbs   B-PER
 (
 re
 lations
 of
-Bilbo
-Baggins’
+Bilbo   B-PER
+Baggins’   B-PER
 grandmother
 )
 ,
 and
 various
-Chubbs
+Chubbs   B-PER
 (
 connexions
 of
 his
-Took
+Took   B-PER
 grandfather
 )
 ;
@@ -2003,19 +2003,19 @@ and
 a
 selection
 of
-Burrowses
+Burrowses   B-PER
 ,
-Bolgers
+Bolgers   B-PER
 ,
-Bracegirdles
+Bracegirdles   B-PER
 ,
-Brockhouses
+Brockhouses   B-PER
 ,
-Goodbodies
+Goodbodies   B-PER
 ,
-Hornblowers
+Hornblowers   B-PER
 and
-Proudfoots
+Proudfoots   B-PER
 .
 Some
 of
@@ -2026,7 +2026,7 @@ very
 distantly
 connected
 with
-Bilbo
+Bilbo   B-PER
 ,
 and
 some
@@ -2035,7 +2035,7 @@ hardly
 ever
 been
 in
-Hobbiton
+Hobbiton    B-LOC
 before
 ,
 as
@@ -2049,26 +2049,26 @@ the
 Shire
 .
 The
-Sackville
-Bagginses
+Sackville   B-PER
+Bagginses   I-PER
 were
 not
 forgotten
 .
-Otho
+Otho   B-PER
 and
 his
 wife
-Lobelia
+Lobelia   B-PER
 were
 present
 .
 They
 disliked
-Bilbo
+Bilbo   B-PER
 and
 detested
-Frodo
+Frodo   B-PER
 ,
 but
 so
@@ -2098,7 +2098,7 @@ Besides
 their
 cousin
 ,
-Bilbo
+Bilbo   B-PER
 ,
 had
 been
@@ -2226,7 +2226,7 @@ weeks
 ;
 but
 as
-Bilbo’s
+Bilbo’s   B-PER
 catering
 had
 depleted
@@ -2330,7 +2330,7 @@ dear
 People
 ,
 began
-Bilbo
+Bilbo   B-PER
 ,
 rising
 in
@@ -2363,7 +2363,7 @@ their
 own
 advice
 .
-Bilbo
+Bilbo   B-PER
 left
 his
 place
@@ -2424,9 +2424,9 @@ pocket
 .
 My
 dear
-Bagginses
+Bagginses   B-PER
 and
-Boffins
+Boffins   B-PER
 ,
 he
 began
@@ -2435,35 +2435,34 @@ again
 and
 my
 dear
-Books
+Books   B-PER
 and
-Brandybucks
-,
-and
-Grubbs
+Brandybucks   B-PER
 ,
 and
-Chubbs
+Grubbs   B-PER
 ,
 and
-Burrowses
+Chubbs   B-PER
 ,
 and
-Hornblowers
+Burrowses   B-PER
 ,
 and
-Bolgers
+Hornblowers   B-PER
 ,
-Bracegirdles
-,
-Good
-bodies
-,
-Brockhouses
 and
-Proudfoots
+Bolgers   B-PER
+,
+Bracegirdles   B-PER
+,
+Goodbodies   B-PER
+,
+Brockhouses   B-PER
+and
+Proudfoots   B-PER
 .
-ProudFEETl’
+ProudFEETl’   B-PER
 shouted
 an
 elderly
@@ -2482,7 +2481,7 @@ of
 course
 ,
 was
-Proudfoot
+Proudfoot   B-PER
 ,
 and
 well
@@ -2503,16 +2502,16 @@ on
 the
 table
 .
-Proudfoots
+Proudfoots   B-PER
 ,
 repeated
-Bilbo
+Bilbo   B-PER
 .
 Also
 my
 good
-Sackville
-Bagginses
+Sackville   B-PER
+Bagginses   B-PER
 that
 I
 welcome
@@ -2520,6 +2519,6 @@ back
 at
 last
 to
-Bag
-End
+Bag B-LOC
+End I-LOC
 .
