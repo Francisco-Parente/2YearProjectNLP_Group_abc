@@ -46,7 +46,7 @@ def combine_text_files(input_files):
         for input_file in input_files:
             with open(input_file, "r", encoding="utf-8") as input:
                 output.write(input.read())
-
+"""
 def read_and_write_random_sentences(input_file, output_files):
     # Set random seed
     random.seed(666)
@@ -57,6 +57,27 @@ def read_and_write_random_sentences(input_file, output_files):
 
     # Split the content into sentences
     sentences = re.split(r'(?<=[.!?])\s+(?=(?:[^\'\"]*\'[^\'\"]*\')*[^\'\"]*$)', content)
+
+    # Shuffle the sentences randomly
+    random.shuffle(sentences)
+
+    # Write 500 random sentences to each output file
+    for i, output_file in enumerate(output_files):
+        start_index = i * 500
+        end_index = start_index + 500
+        with open(output_file, 'w', encoding='utf-8') as file:
+            file.write('\n'.join(sentences[start_index:end_index]))
+"""
+def read_and_write_random_sentences(input_file, output_files):
+    # Set random seed
+    random.seed(666)
+    
+    # Read the input file
+    with open(input_file, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    # Split the content into sentences
+    sentences = re.split(r'(?<=[.!?])\s+(?=(?:[^\'\"]*\'[^\'\"]*\')*[^\'\"]*(?:\.|$))', content)
 
     # Shuffle the sentences randomly
     random.shuffle(sentences)
