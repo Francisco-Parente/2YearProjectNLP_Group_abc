@@ -94783,23 +94783,23 @@ Kin
 .
 For
 of
-Beren
+Beren   B-PER
 and
-Luthien
+Luthien B-PER
 was
 born
-Dior
-Thingol’s
+Dior    B-PER
+Thingol’s   I-PER
 heir
 ;
 and
 of
 him
-Elwing
+Elwing  B-PER
 the
 White
 whom
-Earendil
+Earendil    B-PER
 wedded
 ,
 he
@@ -94828,12 +94828,12 @@ brow
 .
 And
 of
-Earendil
+Earendil    B-PER
 came
 the
-Kings
-of
-Numenor
+Kings   B-ORG
+of  I-ORG
+Numenor I-ORG
 ,
 that
 is
@@ -655951,9 +655951,7 @@ the
 dreadful
 strength
 of
-Grishn
-kh
-s
+Grishnakh'S B-PER
 hairy
 arms
 .
@@ -716069,8 +716067,7 @@ the
 borders
 of
 fair
-Lothl
-rien
+Lothlorien
 .
 Gimli
 the
