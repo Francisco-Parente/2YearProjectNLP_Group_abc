@@ -70,7 +70,8 @@ def read_and_write_random_sentences(input_file, output_files):
 """
 def read_and_write_random_sentences(input_file, output_files):
     # Set random seed
-    random.seed(666)
+
+    random.seed(42)
     
     # Read the input file
     with open(input_file, 'r', encoding='utf-8') as file:
@@ -183,3 +184,4 @@ read_and_write_random_sentences("Scripts\combined_tokens.txt", output_files)
 file_names = ["Data\LotR\Labeling2nd\Daniil_Anot2.txt", "Data\LotR\Labeling2nd\Abel_Anot2.txt", "Data\LotR\Labeling2nd\Tobi_Anot2.txt", "Data\LotR\Labeling2nd\Francisco_Anot2.txt"]
 #compare_labels(file_names)
 
+print("Done")
