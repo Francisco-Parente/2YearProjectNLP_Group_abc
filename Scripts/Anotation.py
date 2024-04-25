@@ -161,27 +161,26 @@ def compare_labels(file_name):
                 break
 
 #---------------------------Using functions---------------------------------
-Hobbit_word_per_line()
+#Hobbit_word_per_line()
 files = []
 files.append("Scripts\The Fellowship Of The Ring.txt")
 files.append("Scripts\The Return Of The King.txt")
 files.append("Scripts\The Two Towers.txt")
-for name in files:
-    LOTR_word_per_line(name)
+"""for name in files:
+    LOTR_word_per_line(name)"""
 
 token_files = []
 token_files.append("Scripts\Hobbit_tokens.txt")
 token_files.append("Scripts\The Fellowship Of The Ring_tokens.txt")
 token_files.append("Scripts\The Return Of The King_tokens.txt")
 token_files.append("Scripts\The Two Towers_tokens.txt")
-combine_text_files(token_files)
+#combine_text_files(token_files)
 
 
 output_files = ['Data\LotR\LabelingFinals\Tobi.txt', 'Data\LotR\LabelingFinals\Abel.txt', 'Data\LotR\LabelingFinals\Daniila.txt']
 # Call the function to read and write random sentences
-read_and_write_random_sentences("Scripts\combined_tokens.txt", output_files)
+#read_and_write_random_sentences("Scripts\combined_tokens.txt", output_files)
 
 file_names = ["Data\LotR\Labeling2nd\Daniil_Anot2.txt", "Data\LotR\Labeling2nd\Abel_Anot2.txt", "Data\LotR\Labeling2nd\Tobi_Anot2.txt", "Data\LotR\Labeling2nd\Francisco_Anot2.txt"]
 #compare_labels(file_names)
 
-print("Done")
