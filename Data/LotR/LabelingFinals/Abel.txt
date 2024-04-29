@@ -48,7 +48,7 @@ beyond
 the
 glooms
 of
-Mordor
+Mordor	B-LOC
 the
 Sun
 was
@@ -58,8 +58,8 @@ the
 eastern
 rim
 of
-Middle
-earth
+Middle	B-LOC	
+earth	I-LOC
 ;
 but
 here
@@ -134,7 +134,7 @@ a
 watch
 ,
 and
-Strider
+Strider	B-PER
 ,
 it
 seemed
@@ -175,7 +175,7 @@ all
 that
 ,
 said
-Hob
+Hob	B-PER
 .
 Yet
 I
@@ -209,7 +209,7 @@ dwarf
 ,
 ’
 said
-Legolas
+Legolas	B-PER
 .
 But
 so
@@ -252,7 +252,7 @@ is
 gone
 ,
 said
-owyn
+Eowyn	B-PER
 turning
 away
 and
@@ -316,7 +316,7 @@ to
 the
 slaves
 of
-Mordor
+Mordor B-LOC
 ;
 and
 in
@@ -373,11 +373,11 @@ the
 doors
 .
 said
-Merry
+Merry B-PER
 .
 And
 now
-Faramir
+Faramir	B-PER
 was
 gone
 again
@@ -407,12 +407,12 @@ to
 make
 verses
 about
-Earendil
+Earendil	B-PER
 in
 the
 house
 of
-Elrond
+Elrond	B-PER
 ,
 it
 was
@@ -428,7 +428,7 @@ match
 you
 .
 said
-Gandalf
+Gandalf	B-PER
 ,
 and
 for
@@ -511,9 +511,9 @@ of
 being
 roasted
 by
-the
-Yellow
-Face
+the	
+Yellow	B-PER
+Face	I-PER
 .
 I
 reached
@@ -528,11 +528,11 @@ road
 ,
 up
 the
-Hoarwell
+Hoarwell	B-LOC
 and
 through
 the
-Ettenmoors
+Ettenmoors B-LOC
 ,
 and
 down
@@ -580,10 +580,10 @@ here
 There
 are
 no
-Bagginses
+Bagginses	B-PER
 here
 .
-Sam
+Sam	B-PER
 had
 changed
 before
@@ -621,17 +621,16 @@ a
 lot
 ,
 said
-Ugl
-k
+Uglok	B-PER
 .
 Mr.
-The
-Chief
+The	B-PER
+Chief	I-PER
 s
 up
 at
-Bag
-End
+Bag	B-LOC
+End	I-LOC
 .
 And
 I
@@ -672,7 +671,7 @@ dark
 ,
 ’
 said
-Aragorn
+Aragorn	B-PER
 .
 It
 did
@@ -687,7 +686,7 @@ to
 say
 now
 ,
-Frodo
+Frodo	B-PER
 ?
 He
 was
@@ -772,8 +771,8 @@ how
 to
 deal
 with
-Black
-Riders
+Black	B-ORG
+Riders	I-ORG
 ,
 if
 anyone
@@ -816,8 +815,8 @@ the
 stony
 shadows
 under
-Cirith
-Ungol
+Cirith	B-LOC
+Ungol	I-LOC
 .
 Curtains
 of
@@ -959,7 +958,7 @@ not
 yet
 ,
 Master
-Peregrin
+Peregrin	B-PER
 !
 Then
 with
@@ -996,7 +995,7 @@ it
 .
 The
 Lord
-Saruman
+Saruman	B-PER
 is
 within
 ;
@@ -1009,7 +1008,7 @@ is
 closeted
 with
 one
-Wormtongue
+Wormtongue	B-PER
 ,
 or
 doubtless
@@ -1045,7 +1044,7 @@ friends
 walking
 over
 the
-Shire
+Shire	B-LOC
 with
 me
 ,
@@ -1078,7 +1077,7 @@ in
 here
 ,
 said
-Pippin
+Pippin	B-PER
 .
 The
 woods
@@ -1118,7 +1117,7 @@ and
 given
 the
 whole
-Shire
+Shire	B-LOC
 something
 to
 talk
@@ -1158,7 +1157,7 @@ as
 they
 say
 in
-Bree
+Bree	B-LOC
 )
 .
 We
@@ -1195,10 +1194,10 @@ find
 a
 way
 through
-Rohan
+Rohan	B-LOC
 ,
 and
-Fangorn
+Fangorn	B-LOC
 too
 ,
 if
@@ -1226,7 +1225,7 @@ the
 grim
 flanks
 of
-Caradhras
+Caradhras	B-LOC
 towered
 up
 invisible
@@ -1268,7 +1267,7 @@ out
 Your
 bow
 ,
-Legolas
+Legolas	B-PER
 !
 A
 faint
@@ -1293,26 +1292,26 @@ look
 out
 over
 the
-Dead
-Marshes
+Dead	B-LOC
+Marshes	I-LOC
 and
 the
-Noman
-lands
+Noman	B-LOC
+lands	I-LOC
 to
-Cirith
-Gorgor
+Cirith	B-LOC
+Gorgor	I-LOC
 and
 the
 black
 gates
 of
-Mordor
+Mordor	B-LOC
 .
 The
 beacons
 of
-Gondor
+Gondor	B-LOC
 are
 alight
 ,
@@ -1327,11 +1326,11 @@ case
 so
 is
 the
-Redhorn
-Gate
+Redhorn	B-LOC
+Gate	I-LOC
 ,
 said
-Gandalf
+Gandalf	B-PER
 ;
 and
 how
@@ -1360,14 +1359,14 @@ Together
 they
 carried
 out
-Merry
+Merry	B-PER
 ,
-Pippin
+Pippin	B-PER
 ,
 and
-Sam
+Sam	B-PER
 .
-Tom
+Tom	B-PER
 s
 words
 laid
@@ -1445,10 +1444,10 @@ of
 his
 kinsman
 ,
-Faramir
+Faramir	B-PER
 son
 of
-Denethor
+Denethor	B-PER
 ,
 found
 upon
@@ -1568,7 +1567,7 @@ forget
 me
 nots
 .
-Merry
+Merry	B-PER
 alone
 seemed
 fairly
@@ -1698,16 +1697,16 @@ get
 up
 into
 the
-Ettendales
+Ettendales	B-LOC
 far
 north
 of
-Rivendell
+RivendellA	B-LOC
 .
 Now
 ,
-Sam
-Gamgee
+Sam	B-PER
+Gamgee	I-PER
 ,
 this
 is
@@ -1753,7 +1752,7 @@ of
 the
 Sky
 ,
-Menelvagor
+Menelvagor	B-PER
 with
 his
 shining
@@ -1767,7 +1766,7 @@ would
 spread
 about
 in
-Mordor
+Mordor	B-LOC
 ,
 half
 our
@@ -1883,7 +1882,7 @@ gully
 again
 .
 said
-Sam
+Sam	B-PER
 .
 We
 sing
@@ -1901,14 +1900,14 @@ On
 the
 land
 of
-Lorien
+Lorien	B-LOC
 there
 was
 no
 stain
 .
 said
-Frodo
+Frodo	B-PER
 ,
 pushing
 back
@@ -1939,8 +1938,7 @@ kill
 us
 ,
 whined
-Sm
-agol
+Smeagol	B-PER
 in
 a
 last
@@ -1990,7 +1988,7 @@ noise
 he
 said
 .
-Faramir
+Faramir	B-PER
 took
 a
 small
@@ -2003,7 +2001,7 @@ and
 handed
 it
 to
-Frodo
+Frodo B-PER
 .
 Speak
 plainer
@@ -2012,7 +2010,7 @@ He
 will
 ,
 said
-Gandalf
+Gandalf B-PER
 .
 That
 is
@@ -2027,19 +2025,19 @@ deem
 The
 grandson
 of
-Bard
-the
-Bowman
+Bard	B-PER
+the	I-PER
+Bowman	I-PER
 rules
 them
 ,
-Brand
+Brand	B-PER
 son
 of
-Bain
+Bain	B-PER
 son
 of
-Bard
+Bard	B-PER
 .
 For
 though
@@ -2071,7 +2069,7 @@ nor
 any
 of
 your
-Company
+Company	B-ORG
 ,
 when
 I
@@ -2114,7 +2112,7 @@ Well
 ,
 my
 lord
-Steward
+Steward	B-PER
 ,
 it
 is
@@ -2182,7 +2180,7 @@ the
 tale
 ?
 said
-Bilbo
+Bilbo	B-PER
 .
 But
 I
@@ -2201,7 +2199,7 @@ they
 dis
 covered
 that
-Boromir
+Boromir	B-PER
 ,
 who
 at
@@ -2225,7 +2223,7 @@ there
 The
 forest
 where
-Faramir
+Faramir	B-PER
 had
 stood
 seemed
@@ -2246,7 +2244,7 @@ he
 was
 only
 a
-Ranger
+Ranger	B-PER
 .
 First
 check
@@ -2317,13 +2315,13 @@ since
 the
 wars
 of
-Sauron
+Sauron	B-PER
 and
 the
-Men
-of
-the
-Sea
+Men	B-ORG
+of	I-ORG
+the	I-ORG
+Sea	I-ORG
 .
 But
 you
@@ -2354,9 +2352,9 @@ want
 the
 escapes
 of
-Mirkwood
+Mirkwood	B-LOC
 in
-Ithilien
+Ithilien	B-LOC
 .
 I
 will
@@ -2386,7 +2384,7 @@ mother’s
 kin
 ,
 in
-Lorien
+Lorien	B-LOC
 beyond
 the
 mountains
@@ -2397,8 +2395,7 @@ but
 lately
 returned
 to
-Riven
-dell
+Rivendell	B-LOC
 to
 her
 father’s
@@ -2416,7 +2413,7 @@ some
 sleep
 ,
 said
-Sam
+Sam	B-PER
 .
 He
 remained
@@ -2433,8 +2430,8 @@ of
 course
 ,
 the
-Sackville
-Bagginses
+Sackville	B-PER
+Bagginses	I-PER
 )
 ,
 and
@@ -2514,10 +2511,10 @@ crying
 out
 that
 the
-King
-of
-the
-Dead
+King	B-PER
+of	I-PER
+the	I-PER
+Dead	I-PER
 was
 upon
 them
@@ -2563,7 +2560,7 @@ when
 the
 Ring
 ,
-Isildur
+Isildur	B-PER
 s
 Bane
 ,
@@ -2597,7 +2594,7 @@ seeing
 the
 dismay
 in
-Pippin
+Pippin	B-PER
 s
 face
 .
@@ -2616,7 +2613,7 @@ the
 Mountains
 and
 the
-Greyflood
+Greyflood	B-LOC
 ,
 he
 said
@@ -2626,12 +2623,12 @@ they
 have
 passed
 over
-Hollin
+Hollin	B-LOC
 .
 I
 wonder
 where
-Isengard
+Isengard	B-LOC
 is
 ?
 If
@@ -2658,7 +2655,7 @@ appointed
 for
 you
 ,
-Frodo
+Frodo	B-PER
 ;
 and
 that
@@ -2680,8 +2677,7 @@ was
 called
 ,
 said
-Th
-oden
+Theoden	B-PER
 ;
 and
 my
@@ -2705,7 +2701,7 @@ they
 went
 beside
 the
-Snowbourn
+Snowbourn	B-LOC
 rushing
 on
 its
@@ -2715,9 +2711,9 @@ through
 the
 hamlets
 of
-Underharrow
+Underharrow	B-LOC
 and
-Upbourn
+Upbourn	B-LOC
 ,
 where
 many
@@ -2755,7 +2751,7 @@ which
 the
 songs
 of
-Rohan
+Rohan	B-LOC
 were
 busy
 for
@@ -2855,7 +2851,7 @@ it
 suited
 them
 .
-Sam
+Sam	B-PER
 took
 his
 master
@@ -2907,7 +2903,7 @@ if
 I
 could
 .
-Sam
+Sam	B-PER
 quickly
 blushed
 and
@@ -2969,13 +2965,13 @@ we
 return
 over
 the
-Great
-Sea
+Great	B-LOC
+Sea	I-LOC
 .
 ’
 Ah
 !
-Frodo
+Frodo	B-PER
 was
 chilled
 to
@@ -2992,7 +2988,7 @@ gathering
 cloud
 .
 Is
-Rivendell
+Rivendell	B-LOC
 safe
 ?
 Inside
@@ -3057,7 +3053,7 @@ I
 forgive
 you
 .
-Bill
+Bill	B-PER
 ,
 seeming
 to
@@ -3077,7 +3073,7 @@ putting
 his
 nose
 to
-Sam’s
+Sam’s	B-PER
 ear
 .
 If
@@ -3097,7 +3093,7 @@ reach
 the
 borders
 of
-Fangorn
+Fangorn	B-LOC
 .
 Take
 it
@@ -3291,7 +3287,7 @@ but
 mine
 .
 said
-Sam
+Sam	B-PER
 pointing
 to
 the
@@ -3301,7 +3297,7 @@ Quite
 simple
 .
 Then
-Boromir
+Boromir	B-PER
 had
 come
 leaping
@@ -3370,7 +3366,7 @@ up
 Good
 luck
 ,
-Sam
+Sam	B-PER
 !
 It
 is
@@ -3542,7 +3538,7 @@ the
 skirts
 of
 the
-Morgai
+Morgai	B-LOC
 and
 away
 southward
@@ -3601,7 +3597,7 @@ branches
 ,
 ’
 said
-Strider
+Strider	B-PER
 .
 We
 must
@@ -3644,7 +3640,7 @@ say
 Certainly
 ,
 said
-Gandalf
+Gandalf	B-PER
 .
 There
 was
@@ -3699,7 +3695,7 @@ Good
 night
 !
 Again
-Gandalf
+Gandalf	B-PER
 approached
 the
 wall
@@ -3826,9 +3822,9 @@ bottom
 ,
 ’
 said
-Aragorn
+Aragorn	B-PER
 to
-Merry
+Merry	B-PER
 .
 There
 are
@@ -3884,9 +3880,9 @@ look
 on
 the
 Lord
-Aragorn
+Aragorn	B-PER
 ,
-Elendil
+Elendil	B-PER
 s
 heir
 ,
@@ -3947,7 +3943,7 @@ ifs
 are
 vain
 .
-Sam
+Sam	B-PER
 scowled
 at
 him
@@ -4054,8 +4050,8 @@ Ores
 ;
 and
 the
-Nine
-Riders
+Nine	B-PER
+Riders	I-PER
 going
 hither
 and
@@ -4072,9 +4068,9 @@ of
 the
 escape
 of
-Gollum
+Gollum	B-PER
 .
-Pippin
+Pippin	B-PER
 fell
 asleep
 ,
@@ -4246,9 +4242,9 @@ my
 company
 of
 the
-Guard
+Guard	B-ORG
 .
-Gandalf
+Gandalf	B-PER
 passed
 now
 into
@@ -4257,8 +4253,8 @@ wide
 land
 beyond
 the
-Rammas
-Echor
+Rammas	B-LOC
+Echor	I-LOC
 .
 and
 ever
@@ -4279,7 +4275,7 @@ very
 suspicious
 of
 this
-Forest
+ForesT
 and
 everything
 in
@@ -4352,7 +4348,7 @@ man
 food
 ,
 as
-Treebeard
+Treebeard	B-PER
 calls
 it
 .
@@ -4365,9 +4361,9 @@ them
 further
 ,
 said
-omer
+Eomer 	B-PER
 .
-Frodo
+Frodo	B-PER
 gasped
 .
 So
@@ -4375,7 +4371,7 @@ do
 I
 ,
 said
-Sam
+Sam	B-PER
 .
 ’
 To
@@ -4426,7 +4422,7 @@ other
 time
 and
 place
-Pippin
+Pippin	B-PER
 might
 have
 been
@@ -4508,7 +4504,7 @@ night
 I
 hoped
 that
-Frodo
+Frodo	B-PER
 had
 set
 forth
@@ -4526,7 +4522,7 @@ that
 he
 had
 reached
-Rivendell
+Rivendell	B-LOC
 before
 the
 deadly
@@ -4625,9 +4621,9 @@ be
 hushed
 .
 said
-Merry
+Merry	B-PER
 and
-Pippin
+Pippin	B-PER
 together
 ,
 and
@@ -4641,8 +4637,8 @@ ve
 escaped
 from
 the
-Emyn
-Muil
+Emyn	B-LOC
+Muil	I-LOC
 !
 Whatever
 they
@@ -4713,8 +4709,7 @@ living
 flowers
 .
 Through
-L
-rien
+Lorien	B-LOC
 we
 came
 of
@@ -4747,7 +4742,7 @@ to
 the
 falls
 of
-Rauros
+Rauros	B-LOC
 .
 No
 word
@@ -4761,9 +4756,9 @@ to
 any
 of
 the
-Council
+Council	B-ORG
 .
-Frodo
+Frodo	B-PER
 was
 sitting
 at
@@ -4799,7 +4794,7 @@ would
 go
 back
 to
-Moria
+Moria	B-LOC
 gate
 ,
 or
@@ -4816,7 +4811,7 @@ River
 all
 alone
 .
-Sam
+Sam	B-PER
 smiled
 grimly
 at
@@ -4826,7 +4821,7 @@ of
 himself
 .
 cried
-Boromir
+Boromir	B-PER
 and
 leaped
 after
@@ -4906,8 +4901,8 @@ Side
 ,
 where
 the
-Hobbiton
-Road
+Hobbiton	B-LOC
+Road	I-LOC
 ran
 close
 to
@@ -4934,19 +4929,19 @@ of
 the
 others
 ,
-Saruman
+Saruman	B-PER
 turned
 again
 .
 The
 Lady
-owyn
+Eowyn	B-PER
 is
 she
 ,
 sister
 of
-omer
+Eomer	B-PER
 ;
 and
 we
@@ -5023,7 +5018,7 @@ in
 the
 days
 of
-Isildur
+Isildur	B-PER
 the
 Ruling
 Ring
@@ -5044,7 +5039,7 @@ dominion
 .
 And
 then
-Faramir
+Faramir	B-PER
 cried
 :
 Behold
@@ -5077,7 +5072,7 @@ He
 sprang
 forward
 to
-Boromir’s
+Boromir’s	B-PER
 side
 and
 drew
@@ -5179,7 +5174,7 @@ at
 once
 ,
 answered
-Strider
+Strider	B-PER
 ,
 looking
 up
@@ -5212,7 +5207,7 @@ path
 At
 that
 moment
-Boromir
+Boromir	B-PER
 reappeared
 .
 This
@@ -5278,8 +5273,8 @@ I
 would
 give
 them
-Bag
-End
+Bag	B-LOC
+End	I-LOC
 and
 everything
 else
@@ -5288,7 +5283,7 @@ if
 I
 could
 get
-Bilbo
+Bilbo	B-PER
 back
 and
 go
@@ -5380,7 +5375,7 @@ we
 will
 come
 to
-Rohan
+Rohan	B-LOC
 and
 bring
 him
@@ -5398,7 +5393,7 @@ s
 changing
 ,
 said
-Merry
+Merry	B-PER
 .
 More
 deadly
@@ -5408,7 +5403,7 @@ was
 the
 name
 of
-Elbereth
+Elbereth	B-PER
 .
 They
 had
@@ -5416,7 +5411,7 @@ not
 gone
 far
 when
-Frodo
+Frodo	B-PER
 paused
 .
 ’
@@ -5424,7 +5419,7 @@ Eight
 ,
 ’
 said
-Legolas
+Legolas	B-PER
 .
 As
 they
@@ -5432,10 +5427,9 @@ came
 to
 the
 gates
-C
-rdan
-the
-Shipwright
+Cirdan	B-PER
+the	I-PER
+Shipwright	I-PER
 came
 forth
 to
@@ -5456,7 +5450,7 @@ your
 pardon
 ,
 Master
-Boromir
+Boromir	B-PER
 ,
 ’
 he
@@ -5539,7 +5533,7 @@ word
 Tell
 me
 ,
-Legolas
+Legolas	B-PER
 ,
 why
 did
@@ -5552,7 +5546,7 @@ Quest
 Farewell
 ,
 sweet
-Nimrodel
+Nimrodel	B-PER
 !
 Look
 not
@@ -5577,7 +5571,7 @@ the
 roving
 eye
 of
-Saruman
+Saruman	B-PER
 was
 trapped
 and
@@ -5608,7 +5602,7 @@ the
 signs
 ,
 Captain
-Shagrat
+Shagrat	B-PER
 ,
 I
 d
@@ -5706,7 +5700,7 @@ along
 the
 road
 from
-Waymeet
+Waymeet	B-LOC
 ,
 but
 a
@@ -5773,7 +5767,7 @@ arrow
 point
 ,
 said
-Anborn
+Anborn	B-PER
 .
 High
 time
@@ -5832,13 +5826,12 @@ the
 living
 land
 of
-L
-rien
+Lorien	B-LOC
 ,
 and
 the
 Lady
-Galadriel
+Galadriel	B-PER
 is
 above
 all
@@ -5874,10 +5867,10 @@ of
 .
 Long
 has
-Boromir
+Boromir	B-PER
 son
 of
-Denethor
+Denethor	B-PER
 been
 gone
 seeking
@@ -5978,7 +5971,7 @@ would
 turn
 up
 .
-Aragorn
+Aragorn	B-PER
 nearly
 dropped
 him
@@ -5988,7 +5981,7 @@ amazement
 .
 Even
 old
-Gandalf
+Gandalf	B-PER
 .
 Away
 shall
@@ -6005,7 +5998,7 @@ with
 me
 ,
 said
-Frodo
+Frodo	B-PER
 .
 ’
 said
@@ -6034,7 +6027,7 @@ that
 silly
 fellow
 ,
-Merry
+Merry	B-PER
 ?
 We
 ll
@@ -6053,16 +6046,16 @@ those
 close
 talks
 with
-Gandalf
+Gandalf	B-PER
 .
 Death
 to
 the
-Strawheads
+Strawheads	B-PER
 !
 Make
 for
-Rivendell
+Rivendell	B-LOC
 .
 Well
 !
@@ -6073,14 +6066,14 @@ for
 himself
 came
 to
-Sam
+Sam	B-PER
 s
 mind
 ,
 drawn
 from
 the
-Gaffer
+Gaffer	B-PER
 s
 large
 paternal
@@ -6120,7 +6113,7 @@ back
 For
 just
 as
-Mablung
+Mablung	B-PER
 stepped
 towards
 the
@@ -6148,8 +6141,8 @@ their
 backs
 on
 the
-Redhorn
-Gate
+Redhorn	B-LOC
+Gate	I-LOC
 ,
 and
 stumbled
@@ -6185,7 +6178,7 @@ sir
 .
 Much
 like
-Gollum
+Gollum	B-PER
 with
 his
 birthday
@@ -6211,7 +6204,7 @@ words
 ,
 the
 Lady
-Galadriel
+Galadriel	B-PER
 approaching
 .
 You
@@ -6286,7 +6279,7 @@ free
 even
 the
 dwarf
-Gimli
+Gimli	B-PER
 .
 No
 it
@@ -6294,7 +6287,7 @@ isn
 t
 ,
 said
-Frodo
+Frodo	B-PER
 .
 My
 four
@@ -6341,7 +6334,7 @@ mud
 As
 soon
 as
-Gandalf
+Gandalf	B-PER
 reported
 that
 you
@@ -6460,15 +6453,15 @@ in
 time
 to
 meet
-Bilbo
+Bilbo	B-PER
 ?
 ’
 For
 some
 time
-Frodo
+Frodo	B-PER
 and
-Sam
+Sam	B-PER
 managed
 to
 keep
@@ -6478,7 +6471,7 @@ the
 others
 ;
 but
-Aragorn
+Aragorn	B-PER
 was
 leading
 them
@@ -6528,14 +6521,14 @@ the
 uncouth
 name
 of
-Shire
+Shire	B-LOC
 .
 They
 remained
 some
 days
 in
-Lothlorien
+Lothlorien	B-LOC
 ,
 so
 far
@@ -6626,7 +6619,7 @@ and
 interlacing
 roots
 .
-Sam
+Sam	B-PER
 thought
 he
 saw
@@ -6699,7 +6692,7 @@ his
 hand
 and
 hit
-Bill
+Bill	B-PER
 square
 on
 the
@@ -6742,7 +6735,7 @@ All
 that
 day
 the
-Company
+Company	B-ORG
 marched
 on
 ,
@@ -6784,14 +6777,14 @@ steep
 rocky
 bank
 .
-Baggins
+Baggins	B-PER
 ,
 said
 the
 leader
 of
 the
-Shirriffs
+Shirriffs	B-ORG
 ,
 a
 two
@@ -6822,7 +6815,7 @@ Trespassing
 and
 Sleeping
 in
-Shire
+Shire	B-LOC
 buildings
 without
 Leave
@@ -6841,7 +6834,7 @@ him
 yet
 ,
 for
-Tom
+Tom	B-PER
 ,
 he
 is
@@ -6905,7 +6898,7 @@ once
 more
 ,
 said
-Frodo
+Frodo	B-PER
 .
 He
 got
@@ -6979,7 +6972,7 @@ hunted
 the
 orcs
 to
-Fangorn
+Fangorn	B-LOC
 .
 He
 recognized
@@ -6989,7 +6982,7 @@ of
 the
 Marshal
 ,
-Elfhelm
+Elfhelm	B-PER
 .
 You’ll
 find
@@ -7022,7 +7015,7 @@ how
 far
 down
 the
-Withywindle
+Withywindle	B-LOC
 we
 are
 ,
@@ -7059,7 +7052,7 @@ that
 I
 came
 to
-Rivendell
+Rivendell	B-LOC
 only
 three
 days
@@ -7090,7 +7083,7 @@ to
 be
 fixed
 on
-Pippin
+Pippin	B-PER
 .
 One
 of
@@ -7106,7 +7099,7 @@ you
 comfort
 me
 ,
-Gimli
+Gimli	B-PER
 ,
 and
 I
@@ -7145,7 +7138,7 @@ the
 cart
 all
 through
-Hobbiton
+Hobbiton	B-LOC
 and
 right
 up
@@ -7198,14 +7191,14 @@ roads
 blocked
 .
 ’
-Frodo
+Frodo	B-PER
 and
-Sam
+Sam	B-PER
 stopped
 dead
 ,
 but
-Pippin
+Pippin	B-PER
 walked
 on
 a
@@ -7276,7 +7269,7 @@ the
 S
 .
 But
-Pippin
+Pippin	B-PER
 found
 that
 for
@@ -7287,7 +7280,7 @@ he
 was
 close
 to
-Merry
+Merry	B-PER
 .
 ’
 You
@@ -7305,10 +7298,10 @@ believe
 ,
 ’
 said
-Frodo
+Frodo	B-PER
 .
 For
-Isengard
+Isengard	B-LOC
 may
 be
 ruined
@@ -7319,7 +7312,7 @@ is
 still
 safe
 in
-Orthanc
+Orthanc	B-LOC
 .
 I
 often
@@ -7369,7 +7362,7 @@ said
 .
 ’
 said
-Merry
+Merry	B-PER
 ,
 looking
 in
@@ -7403,7 +7396,7 @@ all
 these
 passed
 before
-Sam
+Sam	B-PER
 s
 mind
 until
@@ -7443,12 +7436,11 @@ given
 to
 him
 in
-Lothl
-rien
+Lothlorien	B-LOC
 by
 the
 Lady
-Galadriel
+Galadriel	B-PER
 .
 Not
 so
@@ -7520,8 +7512,8 @@ by
 the
 end
 of
-Bagshot
-Row
+Bagshot	B-LOC
+Row	I-LOC
 .
 Wait
 !
@@ -7545,7 +7537,7 @@ the
 early
 morning
 .
-Treebeard
+Treebeard	B-PER
 was
 at
 their
@@ -7593,8 +7585,7 @@ been
 useful
 if
 these
-Nazg
-l
+Nazgul
 are
 all
 they
@@ -7723,7 +7714,7 @@ seemed
 certainly
 to
 be
-Gandalf
+Gandalf	B-PER
 s
 .
 All
@@ -7753,7 +7744,7 @@ it
 over
 .
 cried
-Gimli
+Gimli	B-PER
 .
 There’s
 been
@@ -7781,7 +7772,7 @@ break
 the
 doors
 of
-Isengard
+Isengard	B-LOC
 ?
 ’
 Still
@@ -7794,7 +7785,7 @@ all
 ,
 ’
 said
-Gloin
+Gloin	B-PER
 the
 Dwarf
 ,
@@ -7965,19 +7956,18 @@ the
 wain
 of
 King
-Th
-oden
+Theoden	B-PER
 passed
 through
 the
 green
 fields
 of
-Rohan
+Rohan	B-LOC
 and
 came
 to
-Edoras
+Edoras	B-LOC
 ;
 and
 there
@@ -8006,7 +7996,7 @@ father
 answered
 .
 _The_
-Gollum
+Gollum	B-PER
 !
 They
 felt
@@ -8119,13 +8109,13 @@ awake
 There
 lies
 the
-Mirrormere
+Mirrormere	B-LOC
 ,
 and
 there
 the
-River
-Silverlode
+River	B-LOC
+Silverlode	I-LOC
 rises
 in
 its
