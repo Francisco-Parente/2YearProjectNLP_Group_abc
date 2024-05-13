@@ -1,3 +1,4 @@
+#
 But
 I
 suppose
@@ -7,11 +8,13 @@ take
 it
 back
 .
+#
 There
 was
 no
 undergrowth
 .
+#
 He
 climbed
 in
@@ -33,6 +36,7 @@ my
 nice
 hands
 .
+#
 Day
 was
 coming
@@ -70,10 +74,12 @@ dark
 as
 night
 .
+#
 Now
 be
 quiet
 !
+#
 Upon
 the
 east
@@ -100,12 +106,14 @@ final
 doom
 approached
 .
+#
 I
 can’t
 get
 it
 now
 .
+#
 ’
 He
 opened
@@ -126,6 +134,7 @@ a
 sharp
 turn
 .
+#
 That
 night
 they
@@ -144,6 +153,7 @@ not
 sleep
 at
 all
+#
 .
 The
 others
@@ -159,6 +169,7 @@ path
 behind
 us
 .
+#
 Taking
 in
 folk
@@ -177,6 +188,7 @@ that
 said
 Hob	B-PER
 .
+#
 Yet
 I
 had
@@ -197,9 +209,11 @@ at
 our
 meeting
 .
+#
 Night
 comes
 .
+#
 ’
 The
 eighth
@@ -211,6 +225,7 @@ dwarf
 said
 Legolas	B-PER
 .
+#
 But
 so
 far
@@ -234,6 +249,7 @@ go
 any
 further
 .
+#
 Does
 he
 think
@@ -245,6 +261,7 @@ watch
 all
 night
 ?
+#
 No
 ,
 he
@@ -267,6 +284,7 @@ East
 and
 South
 .
+#
 Clear
 are
 thy
@@ -276,6 +294,7 @@ bright
 thy
 breath
 !
+#
 And
 after
 what
@@ -292,6 +311,7 @@ think
 and
 swiftly
 .
+#
 He
 was
 no
@@ -359,6 +379,7 @@ all
 his
 kind
 .
+#
 Forgive
 me
 ,
@@ -372,9 +393,11 @@ at
 the
 doors
 .
+#
 said
 Merry B-PER
 .
+#
 And
 now
 Faramir	B-PER
@@ -382,6 +405,7 @@ was
 gone
 again
 .
+#
 Otherwise
 he
 obviously
@@ -419,6 +443,7 @@ was
 my
 affair
 .
+#
 He
 has
 no
@@ -427,6 +452,7 @@ to
 match
 you
 .
+#
 said
 Gandalf	B-PER
 ,
@@ -456,6 +482,7 @@ old
 as
 death
 .
+#
 The
 doors
 rolled
@@ -468,6 +495,7 @@ came
 whistling
 in
 .
+#
 It
 shall
 be
@@ -478,6 +506,7 @@ as
 you
 command
 .
+#
 letting
 his
 master
@@ -485,6 +514,7 @@ s
 legs
 dangle
 .
+#
 If
 you
 say
@@ -494,6 +524,7 @@ again
 I
 shall
 .
+#
 He
 stands
 a
@@ -515,6 +546,7 @@ the
 Yellow	B-PER
 Face	I-PER
 .
+#
 I
 reached
 here
@@ -540,10 +572,12 @@ from
 the
 north
 .
+#
 O
 Lady
 clear
 !
+#
 They
 felt
 their
@@ -564,9 +598,11 @@ small
 shallow
 bay
 .
+#
 Very
 good
 !
+#
 They
 will
 come
@@ -577,12 +613,14 @@ to
 me
 here
 .
+#
 There
 are
 no
 Bagginses	B-PER
 here
 .
+#
 Sam	B-PER
 had
 changed
@@ -613,6 +651,7 @@ and
 slobbering
 mouth
 .
+#
 You
 seem
 to
@@ -623,6 +662,7 @@ lot
 said
 Uglok	B-PER
 .
+#
 Mr.
 The	B-PER
 Chief	I-PER
@@ -632,6 +672,7 @@ at
 Bag	B-LOC
 End	I-LOC
 .
+#
 And
 I
 warn
@@ -652,12 +693,14 @@ upon
 either
 side
 .
+#
 And
 hold
 to
 your
 purpose
 !
+#
 ’
 We
 will
@@ -673,12 +716,14 @@ dark
 said
 Aragorn	B-PER
 .
+#
 It
 did
 look
 like
 home
 .
+#
 What
 have
 you
@@ -688,6 +733,7 @@ now
 ,
 Frodo	B-PER
 ?
+#
 He
 was
 on
@@ -706,6 +752,7 @@ in
 the
 air
 .
+#
 And
 all
 the
@@ -728,6 +775,7 @@ dwellings
 of
 Men
 .
+#
 They
 always
 wished
@@ -741,6 +789,7 @@ old
 Elves
 did
 .
+#
 He
 returned
 to
@@ -761,6 +810,7 @@ into
 the
 River
 .
+#
 They
 felt
 that
@@ -778,6 +828,7 @@ if
 anyone
 did
 .
+#
 If
 once
 he
@@ -818,6 +869,7 @@ under
 Cirith	B-LOC
 Ungol	I-LOC
 .
+#
 Curtains
 of
 wind
@@ -827,6 +879,7 @@ were
 slanting
 down
 .
+#
 The
 three
 Riders
@@ -851,6 +904,7 @@ under
 angry
 foam
 .
+#
 I
 wish
 that
@@ -878,6 +932,7 @@ understand
 their
 thought
 .
+#
 The
 Orcs
 must
@@ -908,6 +963,7 @@ they
 were
 overtaken
 .
+#
 I
 do
 not
@@ -925,8 +981,10 @@ is
 what
 happened
 .
+#
 Hoom
 !
+#
 Why
 ,
 it
@@ -938,6 +996,7 @@ there
 a
 purpose
 !
+#
 But
 ,
 of
@@ -948,10 +1007,12 @@ have
 my
 price
 .
+#
 They
 will
 return
 .
+#
 Nay
 ,
 not
@@ -960,6 +1021,7 @@ yet
 Master
 Peregrin	B-PER
 !
+#
 Then
 with
 a
@@ -970,6 +1032,7 @@ across
 the
 fissure
 .
+#
 But
 in
 my
@@ -993,6 +1056,7 @@ then
 desire
 it
 .
+#
 The
 Lord
 Saruman	B-PER
@@ -1022,6 +1086,7 @@ such
 honourable
 guests
 .
+#
 Clear
 voices
 rose
@@ -1032,6 +1097,7 @@ the
 starlit
 air
 .
+#
 It
 is
 one
@@ -1062,6 +1128,7 @@ bed
 are
 sweet
 .
+#
 Yes
 ,
 it
@@ -1079,6 +1146,7 @@ here
 said
 Pippin	B-PER
 .
+#
 The
 woods
 in
@@ -1098,6 +1166,7 @@ peaceful
 and
 wholesome
 .
+#
 You
 have
 had
@@ -1132,6 +1201,7 @@ nine
 more
 likely
 .
+#
 He
 thinks
 less
