@@ -160,6 +160,38 @@ def compare_labels(file_name):
                 print("Francisco:",labels4,"\n")
                 break
 
+
+def process_file(input_file, output_file):
+    with open(input_file, 'r') as f:
+        lines = f.readlines()
+
+    with open(output_file, 'a') as f:
+        for line in lines:
+            # Strip leading and trailing whitespace from the line
+            line = line.strip()
+            # Check if the line contains only '.', '?', or '!'
+            if line == '.' or line == '?' or line == '!':
+                # Write the original line followed by '#'
+                f.write(line + '\n# sent_id = anot\n')
+            elif line == "#":
+                # Write the original line
+                f.write('\n# sent_id = anot\n')
+            else:
+                # Write the original line
+                f.write(line + '\n')
+
+
+def combine_annotations(files):
+    words = []
+    tags = []
+    
+    for file in files:
+        read = Anotation.read_file_and_split(file)
+        words.extend(read[0])
+        tags.extend(read[1])
+    return words, tags
+
+
 #---------------------------Using functions---------------------------------
 #Hobbit_word_per_line()
 files = []
@@ -184,3 +216,14 @@ output_files = ['Data\LotR\LabelingFinals\Tobi.txt', 'Data\LotR\LabelingFinals\A
 file_names = ["Data\LotR\Labeling2nd\Daniil_Anot2.txt", "Data\LotR\Labeling2nd\Abel_Anot2.txt", "Data\LotR\Labeling2nd\Tobi_Anot2.txt", "Data\LotR\Labeling2nd\Francisco_Anot2.txt"]
 #compare_labels(file_names)
 
+
+"""annotated_files = ["..\Data\LotR\LabelingFinals\Daniil.txt", "..\Data\LotR\LabelingFinals\Tobi.txt"]
+
+words = combine_annotations(annotated_files)[0]
+tags = combine_annotations(annotated_files)[1]"""
+
+
+# Example usage:
+input_file = "Data\LotR\LabelingFinals\Daniil.txt"
+output_file = "Data\LotR\LabelingFinals\AllSentanceSplit.txt.txt"
+#process_file(input_file, output_file)
