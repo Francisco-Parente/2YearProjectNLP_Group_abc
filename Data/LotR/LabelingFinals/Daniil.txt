@@ -23,6 +23,7 @@ to
 be
 done
 .
+#
 They
 will
 sing
@@ -40,6 +41,7 @@ many
 times
 tonight
 .
+#
 But
 now
 the
@@ -52,6 +54,7 @@ of
 the
 newcomer
 .
+#
 Then
 he
 remembered
@@ -63,6 +66,7 @@ lay
 down
 again
 .
+#
 Then
 he
 sat
@@ -79,6 +83,7 @@ gather
 round
 him
 .
+#
 It
 rose
 up
@@ -98,13 +103,15 @@ to
 see
 him
 .
-Smagol   B-PER
+#
+Smeagol   B-PER
 doesn't
 know
 ,
 answered
 Gollum   B-PER
 .
+#
 Men
 believed
 that
@@ -145,6 +152,7 @@ upon
 that
 hill
 .
+#
 Courage
 is
 found
@@ -155,10 +163,12 @@ places
 said
 Gildor   B-PER
 .
+#
 No
 ,
 sir
 .
+#
 Here
 and
 there
@@ -183,6 +193,7 @@ make
 a
 way
 .
+#
 The
 leaves
 of
@@ -204,6 +215,7 @@ with
 cold
 dew
 .
+#
 Their
 weapons
 were

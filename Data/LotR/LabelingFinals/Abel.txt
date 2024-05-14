@@ -1230,6 +1230,7 @@ in
 Bree	B-LOC
 )
 .
+#
 We
 shall
 be
@@ -1238,6 +1239,7 @@ an
 early
 start
 .
+#
 After
 that
 journey
@@ -1274,6 +1276,7 @@ if
 need
 be
 .
+#
 The
 narrow
 path
@@ -1321,6 +1324,7 @@ a
 deep
 ravine
 .
+#
 Then
 suddenly
 ,
@@ -1339,6 +1343,7 @@ bow
 ,
 Legolas	B-PER
 !
+#
 A
 faint
 light
@@ -1348,6 +1353,7 @@ the
 hall
 again
 .
+#
 The
 wind
 blows
@@ -1378,6 +1384,7 @@ gates
 of
 Mordor	B-LOC
 .
+#
 The
 beacons
 of
@@ -1389,6 +1396,7 @@ calling
 for
 aid
 .
+#
 And
 in
 that
@@ -1417,6 +1425,7 @@ I
 cannot
 imagine
 .
+#
 Which
 shore
 will
@@ -1424,6 +1433,7 @@ you
 now
 take
 ?
+#
 ’
 Together
 they
@@ -1436,6 +1446,7 @@ Pippin	B-PER
 and
 Sam	B-PER
 .
+#
 Tom	B-PER
 s
 words
@@ -1484,6 +1495,7 @@ destroyers
 and
 usurpers
 .
+#
 His
 trappings
 of
@@ -1497,6 +1509,7 @@ in
 wild
 tatters
 .
+#
 And
 in
 his
@@ -1525,6 +1538,7 @@ the
 stricken
 field
 .
+#
 As
 well
 as
@@ -1550,6 +1564,7 @@ busy
 in
 destruction
 .
+#
 There
 was
 a
@@ -1557,6 +1572,7 @@ ring
 of
 metal
 .
+#
 You
 are
 always
@@ -1583,8 +1599,10 @@ on
 my
 journey
 .
+#
 Stay
 !
+#
 Her
 long
 yellow
@@ -1637,12 +1655,14 @@ forget
 me
 nots
 .
+#
 Merry	B-PER
 alone
 seemed
 fairly
 cheerful
 .
+#
 He
 leaped
 into
@@ -1672,6 +1692,7 @@ him
 with
 arrows
 .
+#
 That
 s
 hard
@@ -1679,6 +1700,7 @@ hard
 cruel
 hard
 .
+#
 When
 winter
 passed
@@ -1708,6 +1730,7 @@ melting
 water
 bubbling
 .
+#
 If
 that’s
 where
@@ -1723,6 +1746,7 @@ want
 for
 moonshine
 .
+#
 After
 that
 I
@@ -1753,6 +1777,7 @@ story
 for
 me
 .
+#
 If
 we
 keep
@@ -1773,6 +1798,7 @@ north
 of
 RivendellA	B-LOC
 .
+#
 Now
 ,
 Sam	B-PER
@@ -1785,6 +1811,7 @@ end
 of
 ends
 .
+#
 Then
 by
 some
