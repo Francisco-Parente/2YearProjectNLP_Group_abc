@@ -12981,7 +12981,7 @@ and
 the
 gates
 of
-Edoras	B-loc
+Edoras	B-LOC
 .
 # sent_id = anot
 In

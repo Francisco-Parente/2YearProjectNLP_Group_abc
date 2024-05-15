@@ -19890,7 +19890,7 @@ and
 the
 gates
 of
-Edoras	B-loc
+Edoras	B-LOC
 .
 In
 the
