@@ -12,7 +12,6 @@ This project aims to build a baseline model for Named Entity Recognition (NER) u
 7. Training and Evaluation
 8. Hyperparameter Tuning
 9. Saving and Loading Model Predictions
-10. Fine-tuning the Model
 
 ## Introduction
 
