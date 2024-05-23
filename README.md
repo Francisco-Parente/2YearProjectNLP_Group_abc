@@ -67,7 +67,33 @@ To ensure reproducibility, set the random seeds at the beginning of your script:
 >torch.manual_seed(42)
 
 # Running the code
-
+### If you model is being reproduced with our text annotations:
+Run following functions and cells:
+1. extractData
+2. convertDataShape
+3. baselineModel class
+4. saveToIob2
+5. loadingAllData
+6. Cell after loadingAllData that runs the function
+>trainDataAll, trainLabelsAll, vocab, labels, testData, testLabels = loadingAllData()
+7. Next line to separate Universal data and LotR data
+>trainDataEWT = trainDataAll[:-1281]\
+>trainDataLotR = trainDataAll[-1281:]\
+>trainLabelsEWT = trainLabelsAll[:-1281]\
+>trainLabelsLotR = trainLabelsAll[-1281:]
+8. Run model
+>DIM_EMBEDDING = 300\
+>LSTM_HIDDEN = 100\
+>LEARNING_RATE = 0.01\
+>EPOCHS = 20\
+>BATCH_SIZE = 128\
+>...
+9. Run fine tunning model
+>NUMBER_OF_MODELS_WITH_FINETUNNING = 10\
+>FINETUNNING_LEARNING_RATE = 0.001\
+>FINETUNNING_EPOCHS = 5\
+>FINETUNNING_BATCH_SIZE = 32\
+>...
 
 # Functions and Methods 
 
