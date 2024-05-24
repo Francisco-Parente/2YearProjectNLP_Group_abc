@@ -22,7 +22,7 @@
 22	love	O
 23	with	O
 24	the	O
-25	Shire	O
+25	Shire	B-LOC
 26	,	O
 27	with	O
 28	woods	O
@@ -56,8 +56,8 @@
 13	the	O
 14	return	O
 15	of	O
-16	the	B-ORG
-17	Kings	I-ORG
+16	the	O
+17	Kings	O
 18	of	O
 19	Men	O
 20	to	O
@@ -474,8 +474,8 @@
 3	were	O
 4	veiled	O
 5	in	O
-6	deepening	B-LOC
-7	dusk	I-LOC
+6	deepening	O
+7	dusk	O
 8	,	O
 9	and	O
 10	the	O
@@ -505,7 +505,7 @@
 14	me	O
 15	,	O
 16	said	O
-17	Aragorn	B-LOC
+17	Aragorn	B-PER
 18	;	O
 19	for	O
 20	that	O
@@ -539,7 +539,7 @@
 6	them	O
 7	from	O
 8	the	O
-9	City	B-LOC
+9	City	B-PER
 10	;	O
 11	and	O
 12	soon	O
@@ -658,9 +658,9 @@
 10	chilled	O
 11	,	O
 12	munching	O
-13	wafers	B-ORG
-14	of	I-ORG
-15	_lembas_	I-ORG
+13	wafers	O
+14	of	O
+15	_lembas_	O
 16	,	O
 17	in	O
 18	the	O
@@ -855,7 +855,7 @@
 
 1	’	O
 2	asked	O
-3	Peregrin	O
+3	Peregrin	B-PER
 4	.	O
 
 1	They	O
@@ -900,13 +900,13 @@
 6	end	O
 7	,	O
 8	yet	O
-9	Gandalf	O
+9	Gandalf	B-PER
 10	says	O
 11	you	O
 12	must	O
 13	go	O
-14	ere	B-ORG
-15	nightfall	I-ORG
+14	ere	O
+15	nightfall	O
 16	,	O
 17	and	O
 18	the	O
@@ -953,7 +953,7 @@
 2	thing	O
 3	scared	O
 4	Mr.	O
-5	Frodo	O
+5	Frodo	B-PER
 6	badly	O
 7	.	O
 
@@ -985,7 +985,7 @@
 26	shore	O
 27	,	O
 28	a	O
-29	shining	B-ORG
+29	shining	O
 30	figure	O
 31	of	O
 32	white	O
@@ -999,7 +999,7 @@
 40	shadowy	B-PER
 41	forms	I-PER
 42	waving	I-PER
-43	flames	I-PER
+43	flames	O
 44	,	O
 45	that	O
 46	flared	O
@@ -1016,9 +1016,9 @@
 57	world	O
 58	.	O
 
-1	Here's	B-PER
-2	the	I-PER
-3	Gate	I-PER
+1	Here's	O
+2	the	O
+3	Gate	O
 4	,	O
 5	and	O
 6	it	O
@@ -1287,7 +1287,7 @@
 16	.	O
 
 1	From	O
-2	Lamedon	B-PER
+2	Lamedon	O
 3	,	O
 4	a	O
 5	few	O
@@ -1301,14 +1301,14 @@
 1	All	O
 2	know	O
 3	in	O
-4	Gondor	O
+4	Gondor	B-PER
 5	that	O
 6	he	O
 7	went	O
 8	first	O
 9	to	O
-10	Minas	B-ORG
-11	Anor	I-ORG
+10	Minas	B-LOC
+11	Anor	O
 12	and	O
 13	dwelt	O
 14	a	O
@@ -1408,7 +1408,7 @@
 3	there	O
 4	,	O
 5	you	O
-6	dunghill	B-PER
+6	dunghill	O
 7	rat	O
 8	!	O
 
@@ -1432,7 +1432,7 @@
 4	grey	O
 5	cloak	O
 6	,	O
-7	Pippin	O
+7	Pippin	B-PER
 8	drew	O
 9	forth	O
 10	his	O
@@ -1625,10 +1625,10 @@
 18	.	O
 
 1	You	O
-2	cannot	B-PER
-3	cross	I-PER
-4	the	I-PER
-5	rivers	I-PER
+2	cannot	O
+3	cross	O
+4	the	O
+5	rivers	O
 6	again	O
 7	,	O
 8	and	O
@@ -1792,9 +1792,9 @@
 9	things	O
 10	(	O
 11	they	O
-12	reminded	B-ORG
-13	him	I-ORG
-14	sharply	I-ORG
+12	reminded	O
+13	him	O
+14	sharply	O
 15	of	O
 16	him	O
 17	in	O
@@ -1873,7 +1873,7 @@
 12	he	O
 13	looked	O
 14	on	O
-15	Aragorn	B-LOC
+15	Aragorn	B-PER
 16	who	O
 17	bent	O
 18	over	O
@@ -1898,8 +1898,8 @@
 37	softly	O
 38	.	O
 
-1	Gandalf	O
-2	snuffed	O
+1	Gandalf	B-PER
+2	snuffed	I-PER
 3	the	O
 4	air	O
 5	and	O
@@ -2641,7 +2641,7 @@
 4	shadow	O
 5	of	O
 6	the	O
-7	hills	B-PER
+7	hills	O
 8	there	O
 9	had	O
 10	been	O
@@ -2732,7 +2732,7 @@
 3	a	O
 4	ring	O
 5	and	O
-6	clatter	B-PER
+6	clatter	O
 7	as	O
 8	the	O
 9	Company	O
@@ -2902,7 +2902,7 @@
 11	,	O
 12	’	O
 13	said	O
-14	Gandalf	O
+14	Gandalf	B-PER
 15	;	O
 16	and	O
 17	that	O
@@ -2982,7 +2982,7 @@
 10	talk	O
 11	,	O
 12	as	O
-13	Gandalf	O
+13	Gandalf	B-PER
 14	says	O
 15	,	O
 16	while	O
@@ -3034,8 +3034,8 @@
 7	wonder	O
 8	,	O
 9	’	O
-10	muttered	B-PER
-11	Sam	I-PER
+10	muttered	O
+11	Sam	B-PER
 12	to	O
 13	Frodo	O
 14	.	O
@@ -3103,8 +3103,8 @@
 1	In	O
 2	the	O
 3	afternoon	O
-4	Ugluk's	B-PER
-5	troop	I-PER
+4	Ugluk's	O
+5	troop	B-LOC
 6	overtook	O
 7	the	O
 8	Northerners	O
@@ -3143,7 +3143,7 @@
 22	,	O
 23	toppled	O
 24	,	O
-25	wavered	B-LOC
+25	wavered	O
 26	for	O
 27	a	O
 28	moment	O
@@ -3264,9 +3264,9 @@
 4	were	O
 5	several	O
 6	other	O
-7	counsellors	B-LOC
-8	of	I-LOC
-9	Elrond’s	I-LOC
+7	counsellors	O
+8	of	O
+9	Elrond’s	O
 10	household	O
 11	,	O
 12	of	O
@@ -3315,9 +3315,9 @@
 13	way	O
 14	towards	O
 15	the	O
-16	Gap	B-LOC
-17	of	I-LOC
-18	Rohan	I-LOC
+16	Gap	O
+17	of	O
+18	Rohan	O
 19	;	O
 20	and	O
 21	Aragorn	O
@@ -3442,7 +3442,7 @@
 2	has	O
 3	,	O
 4	said	O
-5	Pippin	O
+5	Pippin	B-PER
 6	.	O
 
 1	And	O
@@ -3472,7 +3472,7 @@
 4	more	O
 5	heavily	O
 6	on	O
-7	Pippin	O
+7	Pippin	B-PER
 8	.	O
 
 1	He	O
@@ -3776,8 +3776,8 @@
 30	perceive	O
 31	the	O
 32	three	O
-33	strangers	B-ORG
-34	sitting	I-ORG
+33	strangers	O
+34	sitting	O
 35	silently	O
 36	and	O
 37	watching	O
@@ -3849,9 +3849,9 @@
 6	brewing	O
 7	some	O
 8	new	O
-9	devilry	B-PER
-10	for	I-PER
-11	us	I-PER
+9	devilry	O
+10	for	O
+11	us	O
 12	.	O
 
 1	I	O
@@ -3997,7 +3997,7 @@
 14	tree	O
 15	beside	O
 16	the	O
-17	ladder	O
+17	ladder	B-PER
 18	:	O
 19	never	O
 20	before	O
@@ -4257,7 +4257,7 @@
 10	Shire	O
 11	or	O
 12	in	O
-13	Rivendell	O
+13	Rivendell	B-PER
 14	.	O
 
 1	He	O
@@ -4276,7 +4276,7 @@
 14	gathering	O
 15	in	O
 16	the	O
-17	East	B-LOC
+17	East	O
 18	.	O
 
 1	Black	B-PER
@@ -4308,12 +4308,12 @@
 12	and	O
 13	the	O
 14	sweet	O
-15	murmur	B-LOC
-16	of	I-LOC
-17	the	I-LOC
-18	falls	I-LOC
-19	of	I-LOC
-20	Nimrodel	I-LOC
+15	murmur	O
+16	of	O
+17	the	O
+18	falls	O
+19	of	O
+20	Nimrodel	O
 21	below	O
 22	,	O
 23	Frodo	O
@@ -4323,7 +4323,7 @@
 27	the	O
 28	song	O
 29	of	O
-30	Legolas	O
+30	Legolas	B-LOC
 31	running	O
 32	in	O
 33	his	O
@@ -4442,14 +4442,14 @@
 7	?	O
 
 1	asked	O
-2	Frodo	O
+2	Frodo	B-PER
 3	.	O
 
 1	Ah	O
 2	!	O
 
 1	said	O
-2	Aragorn	O
+2	Aragorn	B-PER
 3	.	O
 
 1	And	O
@@ -4477,7 +4477,7 @@
 23	.	O
 
 1	The	O
-2	rivers	B-PER
+2	rivers	O
 3	long	O
 4	defended	O
 5	us	O
@@ -4697,7 +4697,7 @@
 
 1	The	O
 2	three	O
-3	hobbits	O
+3	hobbits	B-PER
 4	came	O
 5	on	O
 6	,	O
@@ -4786,7 +4786,7 @@
 12	become	O
 13	of	O
 14	the	O
-15	Riders	B-ORG
+15	Riders	O
 16	;	O
 17	for	O
 18	only	O
@@ -4928,7 +4928,7 @@
 2	!	O
 
 1	You	O
-2	can't	O
+2	can't	B-PER
 3	see	O
 4	to	O
 5	the	O
@@ -4965,7 +4965,7 @@
 1	Sam	B-PER
 2	looked	O
 3	at	O
-4	Frodo	O
+4	Frodo	B-PER
 5	.	O
 
 1	Do	O
@@ -5054,7 +5054,7 @@
 2	cut	O
 3	is	O
 4	not	O
-5	poisoned	B-PER
+5	poisoned	O
 6	,	O
 7	as	O
 8	the	O
@@ -5120,7 +5120,7 @@
 12	esquire	O
 13	into	O
 14	the	O
-15	Black	O
+15	Black	B-PER
 16	Country	O
 17	and	O
 18	fought	O
@@ -5163,9 +5163,9 @@
 15	while	O
 16	.	O
 
-1	I’ll	B-PER
-2	say	I-PER
-3	you’re	I-PER
+1	I’ll	O
+2	say	O
+3	you’re	B-LOC
 4	dead	O
 5	,	O
 6	or	O
